@@ -8,15 +8,24 @@
     <itunes:author>Frontier Tech Research</itunes:author>
     <itunes:owner>
       <itunes:name>Teemu Mattila</itunes:name>
-      <itunes:email>teemu@lifelineventures.com</itunes:email>
+      <itunes:email>teemu.e.mattila@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-    <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_v2.png"/>
+    <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_v3.png"/>
     <item>
-      <title>Sand, Light, and Electricity — The Machine Behind AI</title>
-      <description>A programmer asks an AI to fix a bug. In the half-second before the answer appears, her question crosses the most expensive machine human beings have ever built: an eight-million-dollar rack in Virginia, chips printed by light in Taiwan, a bus-sized machine from one small Dutch town, and electricity ordered three years in advance. A tour of the physical world behind artificial intelligence — how it works, who builds it, and where the money pools. Episode one of two.</description>
+      <title>Who Builds the Checkers — Verification Decides the AI Decade</title>
+      <description>An SEC filing describes a machine lending money with no human involved — and credits the checking. A hospital's AI coder gets denied by insurers three times less often than its human colleagues. OpenAI sells reliability at exactly ten times the price of intelligence. Those three facts share one pattern, and it is the key to the next decade: machines take over work exactly where their output can be checked cheaply — and stall everywhere it can't. The argument, the dates, and what would prove it wrong. Episode two of two.</description>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>0:19:59</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_06_podcast_thesis_19194400.mp3" length="19194400" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-compute-clouds_06_podcast_thesis_19194400.mp3:19194400</guid>
+      <pubDate>Thu, 11 Jun 2026 22:50:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Machine That Makes Intelligence</title>
+      <description>Ask an AI one question and you set in motion the most expensive machine ever built: an eight-million-dollar rack in Virginia, wafers printed by light in Taiwan, a bus-sized device from one small Dutch town — only about sixty are made a year, for the whole planet — memory stacked like layer cakes in Korea, and electricity ordered three years in advance. A tour of how intelligence is physically manufactured: who builds it, where the bottlenecks rotate, the software tricks that serve ten times more people on the same chips every year, and who is actually getting rich. Episode one of two.</description>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>0:33:42</itunes:duration>
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_05_podcast_32356771.mp3" length="32356771" type="audio/mpeg"/>
