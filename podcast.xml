@@ -23,14 +23,5 @@
       <guid isPermaLink="false">ai-compute-clouds_05_podcast_31956784.mp3:31956784</guid>
       <pubDate>Thu, 11 Jun 2026 16:18:52 -0000</pubDate>
     </item>
-    <item>
-      <title>Proofs, Tests, and Paychecks — When the Machine Becomes a Worker</title>
-      <description>The same AI is superhuman at mathematics a computer can check — and confidently wrong two-thirds of the time where no checker exists. That one experiment explains the decade ahead: the world is about to have far more machine intelligence than it can verify. Where cheap checkers exist, machines become workers on a schedule; where they don't, the work stays human. The argument, with dates attached — and exactly what would prove it wrong. Episode two of two.</description>
-      <itunes:episode>2</itunes:episode>
-      <itunes:duration>0:19:21</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_06_podcast_thesis_18582090.mp3" length="18582090" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-compute-clouds_06_podcast_thesis_18582090.mp3:18582090</guid>
-      <pubDate>Thu, 11 Jun 2026 15:12:49 -0000</pubDate>
-    </item>
   </channel>
 </rss>
