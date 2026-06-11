@@ -3,23 +3,27 @@
   <channel>
     <title>Frontier Tech Research</title>
     <link>https://teemu-mattila.github.io/frontier-pods</link>
-    <description>Narrated audio essays from a frontier-tech research pipeline: the mental model, the thesis, the strongest bear case, and the signals that decide it. Private feed.</description>
+    <description>Field guides to the technologies that will define the next decade. Each domain gets two episodes: first the machine — what physically exists, who builds it, where the money pools — then the argument: a committed view of how it unfolds, with dates attached.</description>
     <language>en</language>
     <itunes:author>Frontier Tech Research</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-    <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover.png"/>
+    <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_v2.png"/>
     <itunes:block>Yes</itunes:block>
     <item>
-      <title>Proofs, Tests, and Paychecks: When the Machine Becomes a Worker</title>
-      <description></description>
+      <title>Proofs, Tests, and Paychecks — When the Machine Becomes a Worker</title>
+      <description>The same AI is superhuman at mathematics a computer can check — and confidently wrong two-thirds of the time where no checker exists. That one experiment explains the decade ahead: the world is about to have far more machine intelligence than it can verify. Where cheap checkers exist, machines become workers on a schedule; where they don't, the work stays human. The argument, with dates attached — and exactly what would prove it wrong. Episode two of two.</description>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>0:19:21</itunes:duration>
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_06_podcast_thesis_18582090.mp3" length="18582090" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-compute-clouds_06_podcast_thesis_18582090.mp3:18582090</guid>
       <pubDate>Thu, 11 Jun 2026 15:12:49 -0000</pubDate>
     </item>
     <item>
-      <title>ai-compute-clouds — Episode A (primer episode)</title>
-      <description></description>
+      <title>Sand, Light, and Electricity — The Machine Behind AI</title>
+      <description>A programmer asks an AI to fix a bug. In the half-second before the answer appears, her question crosses the most expensive machine human beings have ever built: an eight-million-dollar rack in Virginia, chips printed by light in Taiwan, a bus-sized machine from one small Dutch town, and electricity ordered three years in advance. A tour of the physical world behind artificial intelligence — how it works, who builds it, and where the money pools. Episode one of two.</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:17:30</itunes:duration>
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_05_podcast_16804927.mp3" length="16804927" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-compute-clouds_05_podcast_16804927.mp3:16804927</guid>
       <pubDate>Thu, 11 Jun 2026 13:52:28 -0000</pubDate>
