@@ -6,10 +6,14 @@
     <description>Field guides to the technologies that will define the next decade. Each domain gets two episodes: first the machine — what physically exists, who builds it, where the money pools — then the argument: a committed view of how it unfolds, with dates attached.</description>
     <language>en</language>
     <itunes:author>Frontier Tech Research</itunes:author>
+    <itunes:owner>
+      <itunes:name>Teemu Mattila</itunes:name>
+      <itunes:email>teemu@lifelineventures.com</itunes:email>
+    </itunes:owner>
+    <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_v2.png"/>
-    <itunes:block>Yes</itunes:block>
     <item>
       <title>Sand, Light, and Electricity — The Machine Behind AI</title>
       <description>A programmer asks an AI to fix a bug. In the half-second before the answer appears, her question crosses the most expensive machine human beings have ever built: an eight-million-dollar rack in Virginia, chips printed by light in Taiwan, a bus-sized machine from one small Dutch town, and electricity ordered three years in advance. A tour of the physical world behind artificial intelligence — how it works, who builds it, and where the money pools. Episode one of two.</description>
