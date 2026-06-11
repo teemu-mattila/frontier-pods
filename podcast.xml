@@ -11,6 +11,13 @@
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover.png"/>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Proofs, Tests, and Paychecks: When the Machine Becomes a Worker</title>
+      <description></description>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_06_podcast_thesis_18582090.mp3" length="18582090" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-compute-clouds_06_podcast_thesis_18582090.mp3:18582090</guid>
+      <pubDate>Thu, 11 Jun 2026 15:12:49 -0000</pubDate>
+    </item>
+    <item>
       <title>ai-compute-clouds — Episode A (primer episode)</title>
       <description></description>
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_05_podcast_16804927.mp3" length="16804927" type="audio/mpeg"/>
