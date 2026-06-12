@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Frontier Tech Research</title>
+    <title>The Modal Future</title>
     <link>https://teemu-mattila.github.io/frontier-pods</link>
-    <description>Field guides to the technologies that will define the next decade. Each domain gets two episodes: first the machine — what physically exists, who builds it, where the money pools — then the argument: a committed view of how it unfolds, with dates attached.</description>
+    <description>Every frontier technology gets two episodes. First, the machine: what physically exists, who builds it, and where the money pools — taught from the ground up, no background assumed. Then, the argument: one committed view of the next decade, with dates attached and the result that would prove it wrong stated in advance. No scenario menus, no hedging — a view you can hold us to.</description>
     <language>en</language>
-    <itunes:author>Frontier Tech Research</itunes:author>
+    <itunes:author>The Modal Future</itunes:author>
     <itunes:owner>
       <itunes:name>Teemu Mattila</itunes:name>
       <itunes:email>teemu.e.mattila@gmail.com</itunes:email>
@@ -13,10 +13,14 @@
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-    <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_v3.png"/>
+    <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_v4_modal_future.png"/>
     <item>
-      <title>Who Builds the Checkers — Verification Decides the AI Decade</title>
-      <description>An SEC filing describes a machine lending money with no human involved — and credits the checking. A hospital's AI coder gets denied by insurers three times less often than its human colleagues. OpenAI sells reliability at exactly ten times the price of intelligence. Those three facts share one pattern, and it is the key to the next decade: machines take over work exactly where their output can be checked cheaply — and stall everywhere it can't. The argument, the dates, and what would prove it wrong. Episode two of two.</description>
+      <title>Who Builds the Checkers: Verification Decides the AI Decade</title>
+      <description>A securities filing describes a machine lending money with no human involved — and credits the checking. Insurers reject a hospital AI's billing codes three times less often than its human colleagues'. OpenAI charges ten times more for reliability than for intelligence, on the public price list.
+
+Three documents, one pattern: machines take over paid work exactly where their output can be checked cheaply — and stall, no matter how smart they get, wherever it can't. This episode commits to that thesis: where the boundary runs through the economy today, the ten-month clock it moves on, the September number that will test it, and the result that would prove the whole argument wrong.
+
+Part two of two. Part one toured the machine; this is the argument.</description>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>0:19:59</itunes:duration>
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_06_podcast_thesis_19194400.mp3" length="19194400" type="audio/mpeg"/>
@@ -24,8 +28,12 @@
       <pubDate>Thu, 11 Jun 2026 22:50:58 -0000</pubDate>
     </item>
     <item>
-      <title>The Machine That Makes Intelligence</title>
-      <description>Ask an AI one question and you set in motion the most expensive machine ever built: an eight-million-dollar rack in Virginia, wafers printed by light in Taiwan, a bus-sized device from one small Dutch town — only about sixty are made a year, for the whole planet — memory stacked like layer cakes in Korea, and electricity ordered three years in advance. A tour of how intelligence is physically manufactured: who builds it, where the bottlenecks rotate, the software tricks that serve ten times more people on the same chips every year, and who is actually getting rich. Episode one of two.</description>
+      <title>The Most Expensive Machine Ever Built</title>
+      <description>Ask an AI one question and you switch on the most expensive machine human beings have ever built: an eight-million-dollar rack in Virginia, chips printed with light in Taiwan, a bus-sized machine from one small Dutch town — only about sixty are made each year, for the whole planet — memory stacked like layer cakes in Korea, and electricity ordered three years in advance.
+
+This is the tour of that machine: how intelligence is physically manufactured, who builds each piece, why the bottleneck never disappears — it rotates — and who is actually getting rich.
+
+Part one of two. No background assumed.</description>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>0:33:42</itunes:duration>
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_05_podcast_32356771.mp3" length="32356771" type="audio/mpeg"/>
