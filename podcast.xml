@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_v4_modal_future.png"/>
     <item>
+      <title>Primer: How Drones Get Stopped</title>
+      <description>In September 2025 drones closed Copenhagen airport for four hours: 109 cancelled flights, no operator found. Across 24 airports in 12 countries, the people flying the drones were essentially never caught. This episode teaches how counter-drone defense works and why its most mature products are aging fastest: how passive radio decoding locates a drone pilot, how fiber-optic guidance and onboard autonomy removed that handle, the cost arithmetic of three-million-dollar missiles against twenty-thousand-dollar drones, and how incidents and statutes, not technology, open the market. The worked example is Sensofusion, a Finnish company of fifteen employees whose revenue grew eightfold in two years of war, told from its near-failure in 2020 to the van of equipment it drove to Ukraine in February 2022 and its 2026 expansion into jammers, interceptors, aircraft, and satellites.</description>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>0:28:22</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/sensofusion_05_podcast_27243876.mp3" length="27243876" type="audio/mpeg"/>
+      <guid isPermaLink="false">sensofusion_05_podcast_27243876.mp3:27243876</guid>
+      <pubDate>Fri, 12 Jun 2026 13:11:49 -0000</pubDate>
+    </item>
+    <item>
       <title>Thesis: Why AI Automates Some Jobs and Not Others</title>
       <description>Upstart's annual report says 91% of its loans are now made with no human involved. Insurers reject an AI's hospital billing codes a third as often as the human coders'. OpenAI charges ten times more per token for the model that checks its own answers. This episode argues those are the same fact: machines take over work where the output is cheap to check, and stall where it isn't, no matter how capable the models get. It ends with a number due in September that will test the claim. Second of two episodes on AI compute.</description>
       <itunes:episode>2</itunes:episode>
