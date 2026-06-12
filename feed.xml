@@ -3,7 +3,7 @@
   <channel>
     <title>The Modal Future</title>
     <link>https://teemu-mattila.github.io/frontier-pods</link>
-    <description>Audio essays on frontier technology. Each subject gets two episodes: a primer on how the machine is built and who builds it, then a single argument about where it is going, with dates. The first subject is AI compute.</description>
+    <description>Audio essays on frontier technology. Each subject gets two episodes: a primer on how the machine is built and who builds it, then a thesis on where it is going, with dates. The first subject is AI compute.</description>
     <language>en</language>
     <itunes:author>The Modal Future</itunes:author>
     <itunes:owner>
@@ -15,7 +15,7 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_v4_modal_future.png"/>
     <item>
-      <title>Why AI Automates Some Jobs and Not Others</title>
+      <title>Thesis: Why AI Automates Some Jobs and Not Others</title>
       <description>Upstart's annual report says 91% of its loans are now made with no human involved. Insurers reject an AI's hospital billing codes a third as often as the human coders'. OpenAI charges ten times more per token for the model that checks its own answers. This episode argues those are the same fact: machines take over work where the output is cheap to check, and stall where it isn't, no matter how capable the models get. It ends with a number due in September that will test the claim. Second of two episodes on AI compute.</description>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>0:19:59</itunes:duration>
@@ -24,7 +24,7 @@
       <pubDate>Thu, 11 Jun 2026 22:50:58 -0000</pubDate>
     </item>
     <item>
-      <title>How AI Compute Gets Built</title>
+      <title>Primer: How AI Compute Gets Built</title>
       <description>The supply chain behind one AI query: an $8 million rack in northern Virginia, wafers from TSMC, lithography machines from ASML (about sixty a year, for the whole planet), stacked memory from SK Hynix, and electricity bought three years ahead. How each piece works, why the bottleneck keeps moving from one step to another, and where the money pools. First of two episodes on AI compute.</description>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>0:33:42</itunes:duration>
