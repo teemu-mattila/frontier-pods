@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_v4_modal_future.png"/>
     <item>
+      <title>Sensofusion: The Machine</title>
+      <description>An Airfence unit weighs about five kilograms, listens across seventy megahertz to six gigahertz, and never transmits. This episode follows one radio signal through the box, from the antenna to the alert on an operator's screen. It explains how the box detects a drone, classifies it against a signal library, and either decodes the operator's location or triangulates a bearing, and where the radio goes blind.</description>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>0:21:31</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/sensofusion_11_machine_pod_20670214.mp3" length="20670214" type="audio/mpeg"/>
+      <guid isPermaLink="false">sensofusion_11_machine_pod_20670214.mp3:20670214</guid>
+      <pubDate>Sat, 13 Jun 2026 10:15:26 -0000</pubDate>
+    </item>
+    <item>
       <title>Thesis: Light Reaches the AI Chip on Two Clocks, Not One</title>
       <description>On March 12, 2026, AMD, Broadcom, NVIDIA, Meta, Microsoft and OpenAI signed one specification for optical interconnect soldered permanently inside AI machines. The same spring, NVIDIA shipped a five-meter machine held together by copper and light at once. This episode argues that demand and qualification, not energy, set the dates for light's move inward, and names the one number at GTC in March 2027 that tests the claim.</description>
       <itunes:episode>4</itunes:episode>
@@ -31,15 +40,6 @@
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/co-packaged-optics_05_podcast_27136043.mp3" length="27136043" type="audio/mpeg"/>
       <guid isPermaLink="false">co-packaged-optics_05_podcast_27136043.mp3:27136043</guid>
       <pubDate>Fri, 12 Jun 2026 22:20:20 -0000</pubDate>
-    </item>
-    <item>
-      <title>Primer: How Drones Get Stopped</title>
-      <description>In September 2025 drones closed Copenhagen airport for four hours: 109 cancelled flights, no operator found. Across 24 airports in 12 countries, the people flying the drones were essentially never caught. This episode teaches how counter-drone defense works and why its most mature products are aging fastest: how passive radio decoding locates a drone pilot, how fiber-optic guidance and onboard autonomy removed that handle, the cost arithmetic of three-million-dollar missiles against twenty-thousand-dollar drones, and how incidents and statutes, not technology, open the market. The worked example is Sensofusion, a Finnish company of fifteen employees whose revenue grew eightfold in two years of war, told from its near-failure in 2020 to the van of equipment it drove to Ukraine in February 2022 and its 2026 expansion into jammers, interceptors, aircraft, and satellites.</description>
-      <itunes:episode>5</itunes:episode>
-      <itunes:duration>0:28:22</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/sensofusion_05_podcast_27243876.mp3" length="27243876" type="audio/mpeg"/>
-      <guid isPermaLink="false">sensofusion_05_podcast_27243876.mp3:27243876</guid>
-      <pubDate>Fri, 12 Jun 2026 13:11:49 -0000</pubDate>
     </item>
     <item>
       <title>Thesis: Why AI Automates Some Jobs and Not Others</title>
