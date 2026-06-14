@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Modal Future - Drafts</title>
+    <link>https://teemu-mattila.github.io/frontier-pods</link>
+    <description>Private staging feed. Draft episodes awaiting the director's listen before they ship to a public show. Episode numbers are the intended position in the finished series, so gaps mark episodes not yet rendered. Not for distribution.</description>
+    <itunes:subtitle>Private staging feed. Draft episodes awaiting the director's listen before they ship to a public show. Episode numbers are the intended position in the finished series, so gaps mark episodes not yet rendered. Not for distribution.</itunes:subtitle>
+    <itunes:summary>Private staging feed. Draft episodes awaiting the director's listen before they ship to a public show. Episode numbers are the intended position in the finished series, so gaps mark episodes not yet rendered. Not for distribution.</itunes:summary>
+    <language>en</language>
+    <itunes:author>The Modal Future</itunes:author>
+    <itunes:owner>
+      <itunes:name>Teemu Mattila</itunes:name>
+      <itunes:email>teemu.e.mattila@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_drafts.png"/>
+    <item>
+      <title>Thesis: The Build-Out Is a Bet on Reinforcement Learning</title>
+      <description>The AI build-out — hundreds of billions of dollars of chips, buildings, and power — rests on demand continuing to grow, and most of that demand is the frontier labs consuming their own compute to train the next model. Whether they keep doing it depends on one measurable thing: how much capability another dollar of reinforcement-learning compute still buys. This episode makes the case that this single quantity, not chips or power or networking, decides whether the build-out is sound infrastructure or stranded assets — using the ScaleRL results, Epoch's compute figures, the CoreWeave and Oracle financings, and what would prove the argument wrong. The finale of the AI-compute series.</description>
+      <itunes:episode>12</itunes:episode>
+      <itunes:duration>0:11:12</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep12_podcast_thesis_10760820.mp3" length="10760820" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-compute-clouds_ep12_podcast_thesis_10760820.mp3:10760820</guid>
+      <pubDate>Sun, 14 Jun 2026 17:49:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Primer: How a Frontier Model Is Actually Trained</title>
+      <description>The training run that produces a named model is a small share of the computing a frontier lab spends — Epoch AI put OpenAI's 2024 final training runs at about a tenth of its research compute; the rest went to experiments. This episode explains what the rest is: the run as a system engineered to survive a hardware failure every few hours, the experiments that never ship, and the reinforcement-learning stage that now dominates — where the model generates attempts at checkable tasks and is trained on the ones that work, on an S-shaped curve whose ceiling the labs guard.</description>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>0:06:58</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep08_podcast_training_run_6701182.mp3" length="6701182" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-compute-clouds_ep08_podcast_training_run_6701182.mp3:6701182</guid>
+      <pubDate>Sun, 14 Jun 2026 18:38:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Primer: Inside an AI Data Center</title>
+      <description>A single NVIDIA NVL72 rack draws about 120 kilowatts, and a large AI data center holds thousands of them. The building's two jobs — deliver that power to the chips and carry the heat away — have both forced it to be rebuilt: liquid cooling because air can no longer remove the heat, and 800-volt DC power because the current at these densities is otherwise unmanageable. This episode explains both, the 120-to-600-to-1000-kilowatt rack trajectory and what each step breaks, and why the building is the one part of the system whose cost is rising while everything inside it falls.</description>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>0:08:19</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep06_podcast_building_7991004.mp3" length="7991004" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-compute-clouds_ep06_podcast_building_7991004.mp3:7991004</guid>
+      <pubDate>Sun, 14 Jun 2026 18:37:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>Primer: How Chips Become One Computer</title>
+      <description>A frontier model is too large for one GPU, so it is split across tens of thousands of them that must exchange results at every step — and the speed of that exchange, not the speed of the chips, now sets the performance. This episode explains the two networks that do it: NVLink inside NVIDIA's 72-GPU rack, and InfiniBand or Ethernet between racks. It covers the copper reach limit that forces co-packaged optics in 2028, the optical-transceiver supply chain and its laser bottleneck, why one slow link stalls a 100,000-GPU training run, and why only about 40% of a cluster's compute reaches the model.</description>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>0:12:32</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep05_podcast_cluster_12032252.mp3" length="12032252" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-compute-clouds_ep05_podcast_cluster_12032252.mp3:12032252</guid>
+      <pubDate>Sun, 14 Jun 2026 17:47:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Thesis: Why AI Automates Some Jobs and Not Others</title>
+      <description>Upstart's annual report says 91% of its loans are now made with no human involved. Insurers reject an AI's hospital billing codes a third as often as the human coders'. OpenAI charges ten times more per token for the model that checks its own answers. This episode argues those are the same fact: machines take over work where the output is cheap to check, and stall where it isn't, no matter how capable the models get. It ends with a number due in September that will test the claim. Second of two episodes on AI compute.</description>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>0:19:59</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_06_podcast_thesis_19194400.mp3" length="19194400" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-compute-clouds_06_podcast_thesis_19194400.mp3:19194400</guid>
+      <pubDate>Thu, 11 Jun 2026 22:50:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Primer: Why AI Computers Are Switching from Copper to Light (register pass)</title>
+      <description>Register-pass revision of the co-packaged-optics primer, rewritten to the invisible-narrator standard (the Sensofusion 'The Machine' calibration). Same content and numbers as the public version; the narration no longer addresses the listener or narrates its own structure. Draft for the director's listen.</description>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>0:26:29</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/co-packaged-optics_05_podcast_v2_25436203.mp3" length="25436203" type="audio/mpeg"/>
+      <guid isPermaLink="false">co-packaged-optics_05_podcast_v2_25436203.mp3:25436203</guid>
+      <pubDate>Sun, 14 Jun 2026 21:44:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Sensofusion: The Buyers</title>
+      <description>Who pays for an Airfence, read from the procurement records governments are required to publish. The episode follows the Finnish Border Guard's five-million-euro direct award, the Finnish military's three-vendor split, seven paid Ukrainian state contracts on the Prozorro portal, a single system sold to protect Israel's prime minister, and a Hungarian security-service tender. It explains what each buyer pays the box to do, who the real competitor is, and which events and laws make buyers appear.</description>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>0:18:57</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/sensofusion_12_buyers_pod_18206345.mp3" length="18206345" type="audio/mpeg"/>
+      <guid isPermaLink="false">sensofusion_12_buyers_pod_18206345.mp3:18206345</guid>
+      <pubDate>Sun, 14 Jun 2026 21:38:42 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
