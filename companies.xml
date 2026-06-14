@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Frontier Companies</title>
+    <link>https://teemu-mattila.github.io/frontier-pods</link>
+    <description>Deep dives on individual frontier-technology companies - what the product physically does, who actually buys it, and what is changing around it. A companion to The Modal Future. Disclosure: some companies covered are ones the author's fund (Lifeline Ventures) has invested in; any such relationship is stated in the episode.</description>
+    <itunes:subtitle>Deep dives on individual frontier-technology companies - what the product physically does, who actually buys it, and what is changing around it. A companion to The Modal Future. Disclosure: some companies covered are ones the author's fund (Lifeline Ventures) has invested in; any such relationship is stated in the episode.</itunes:subtitle>
+    <itunes:summary>Deep dives on individual frontier-technology companies - what the product physically does, who actually buys it, and what is changing around it. A companion to The Modal Future. Disclosure: some companies covered are ones the author's fund (Lifeline Ventures) has invested in; any such relationship is stated in the episode.</itunes:summary>
+    <language>en</language>
+    <itunes:author>The Modal Future</itunes:author>
+    <itunes:owner>
+      <itunes:name>Teemu Mattila</itunes:name>
+      <itunes:email>teemu.e.mattila@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_companies.png"/>
+    <item>
+      <title>Sensofusion: The Machine</title>
+      <description>An Airfence unit weighs about five kilograms, listens across seventy megahertz to six gigahertz, and never transmits. This episode follows one radio signal through the box, from the antenna to the alert on an operator's screen. It explains how the box detects a drone, classifies it against a signal library, and either decodes the operator's location or triangulates a bearing, and where the radio goes blind.</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:21:31</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/sensofusion_11_machine_pod_20670214.mp3" length="20670214" type="audio/mpeg"/>
+      <guid isPermaLink="false">sensofusion_11_machine_pod_20670214.mp3:20670214</guid>
+      <pubDate>Sat, 13 Jun 2026 10:15:26 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
