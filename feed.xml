@@ -15,6 +15,24 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_v4_modal_future.png"/>
     <item>
+      <title>Primer: How a Frontier Model Is Actually Trained</title>
+      <description>The training run that produces a named model is a small share of the computing a frontier lab spends — Epoch AI put OpenAI's 2024 final training runs at about a tenth of its research compute; the rest went to experiments. This episode explains what the rest is: the run as a system engineered to survive a hardware failure every few hours, the experiments that never ship, and the reinforcement-learning stage that now dominates — where the model generates attempts at checkable tasks and is trained on the ones that work, on an S-shaped curve whose ceiling the labs guard.</description>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>0:06:58</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep08_podcast_training_run_6701182.mp3" length="6701182" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-compute-clouds_ep08_podcast_training_run_6701182.mp3:6701182</guid>
+      <pubDate>Sun, 14 Jun 2026 18:38:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Primer: Inside an AI Data Center</title>
+      <description>A single NVIDIA NVL72 rack draws about 120 kilowatts, and a large AI data center holds thousands of them. The building's two jobs — deliver that power to the chips and carry the heat away — have both forced it to be rebuilt: liquid cooling because air can no longer remove the heat, and 800-volt DC power because the current at these densities is otherwise unmanageable. This episode explains both, the 120-to-600-to-1000-kilowatt rack trajectory and what each step breaks, and why the building is the one part of the system whose cost is rising while everything inside it falls.</description>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>0:08:19</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep06_podcast_building_7991004.mp3" length="7991004" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-compute-clouds_ep06_podcast_building_7991004.mp3:7991004</guid>
+      <pubDate>Sun, 14 Jun 2026 18:37:11 -0000</pubDate>
+    </item>
+    <item>
       <title>Thesis: The Build-Out Is a Bet on Reinforcement Learning</title>
       <description>The AI build-out — hundreds of billions of dollars of chips, buildings, and power — rests on demand continuing to grow, and most of that demand is the frontier labs consuming their own compute to train the next model. Whether they keep doing it depends on one measurable thing: how much capability another dollar of reinforcement-learning compute still buys. This episode makes the case that this single quantity, not chips or power or networking, decides whether the build-out is sound infrastructure or stranded assets — using the ScaleRL results, Epoch's compute figures, the CoreWeave and Oracle financings, and what would prove the argument wrong. The finale of the AI-compute series.</description>
       <itunes:episode>4</itunes:episode>
@@ -31,24 +49,6 @@
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep05_podcast_cluster_12032252.mp3" length="12032252" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-compute-clouds_ep05_podcast_cluster_12032252.mp3:12032252</guid>
       <pubDate>Sun, 14 Jun 2026 17:47:49 -0000</pubDate>
-    </item>
-    <item>
-      <title>Primer: How a Frontier Model Is Actually Trained</title>
-      <description>The training run is a months-long computation across tens of thousands of chips that fails every few hours and must not die. Ninety percent of the compute trains models you will never see. The newest and most valuable stage is mostly the model talking to itself. And the one thing the labs will not publish is the recipe. A tour of how intelligence is actually manufactured — the experiments, the failures, and the reinforcement-learning gym. Part eight of the AI-compute series.</description>
-      <itunes:episode>3</itunes:episode>
-      <itunes:duration>0:13:11</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep08_podcast_training_run_12657936.mp3" length="12657936" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-compute-clouds_ep08_podcast_training_run_12657936.mp3:12657936</guid>
-      <pubDate>Sat, 13 Jun 2026 17:06:47 -0000</pubDate>
-    </item>
-    <item>
-      <title>Primer: Inside an AI Data Center</title>
-      <description>An AI data center is no longer a box that houses computers. It is a machine for moving heat and electricity — and it is the one part of the whole system that does not get cheaper over time. Why air can no longer cool the chips, why the power has to be rewired, why a building designed in 2024 is already wrong for the rack arriving in 2027, and why the equipment to fix it carries a fifteen-billion-dollar backlog. How the building works. Part six of the AI-compute series.</description>
-      <itunes:episode>2</itunes:episode>
-      <itunes:duration>0:14:11</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep06_podcast_building_13624676.mp3" length="13624676" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-compute-clouds_ep06_podcast_building_13624676.mp3:13624676</guid>
-      <pubDate>Sat, 13 Jun 2026 17:04:32 -0000</pubDate>
     </item>
     <item>
       <title>Sensofusion: The Machine</title>
