@@ -35,6 +35,15 @@
       <pubDate>Sun, 14 Jun 2026 18:38:24 -0000</pubDate>
     </item>
     <item>
+      <title>Thesis: Light Reaches the AI Chip on Two Clocks, Not One</title>
+      <description>On March 12, 2026, AMD, Broadcom, NVIDIA, Meta, Microsoft and OpenAI signed one specification for optical interconnect soldered permanently inside AI machines. The same spring, NVIDIA shipped a five-meter machine held together by copper and light at once. This episode argues that demand and qualification, not energy, set the dates for light's move inward, and names the one number at GTC in March 2027 that tests the claim.</description>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>0:22:25</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/co-packaged-optics_06_podcast_thesis_21534136.mp3" length="21534136" type="audio/mpeg"/>
+      <guid isPermaLink="false">co-packaged-optics_06_podcast_thesis_21534136.mp3:21534136</guid>
+      <pubDate>Fri, 12 Jun 2026 22:24:14 -0000</pubDate>
+    </item>
+    <item>
       <title>Primer: Inside an AI Data Center</title>
       <description>A single NVIDIA NVL72 rack draws about 120 kilowatts, and a large AI data center holds thousands of them. The building's two jobs — deliver that power to the chips and carry the heat away — have both forced it to be rebuilt: liquid cooling because air can no longer remove the heat, and 800-volt DC power because the current at these densities is otherwise unmanageable. This episode explains both, the 120-to-600-to-1000-kilowatt rack trajectory and what each step breaks, and why the building is the one part of the system whose cost is rising while everything inside it falls.</description>
       <itunes:episode>6</itunes:episode>
@@ -78,6 +87,15 @@
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/sensofusion_12_buyers_pod_18206345.mp3" length="18206345" type="audio/mpeg"/>
       <guid isPermaLink="false">sensofusion_12_buyers_pod_18206345.mp3:18206345</guid>
       <pubDate>Sun, 14 Jun 2026 21:38:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>Primer: How AI Compute Gets Built</title>
+      <description>The supply chain behind one AI query: an $8 million rack in northern Virginia, wafers from TSMC, lithography machines from ASML (about sixty a year, for the whole planet), stacked memory from SK Hynix, and electricity bought three years ahead. How each piece works, why the bottleneck keeps moving from one step to another, and where the money pools. First of two episodes on AI compute.</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:33:42</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_05_podcast_32356771.mp3" length="32356771" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-compute-clouds_05_podcast_32356771.mp3:32356771</guid>
+      <pubDate>Thu, 11 Jun 2026 22:20:08 -0000</pubDate>
     </item>
   </channel>
 </rss>
