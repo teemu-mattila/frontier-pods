@@ -3,7 +3,9 @@
   <channel>
     <title>The Modal Future</title>
     <link>https://teemu-mattila.github.io/frontier-pods</link>
-    <description>Audio essays on frontier technology. Each subject gets two episodes: a primer on how the machine is built and who builds it, then a thesis on where it is going, with dates. The first subject is AI compute.</description>
+    <description>Frontier technology, in two parts: how it's built, and where it's going.</description>
+    <itunes:subtitle>Frontier technology, in two parts: how it's built, and where it's going.</itunes:subtitle>
+    <itunes:summary>Frontier technology, in two parts: how it's built, and where it's going.</itunes:summary>
     <language>en</language>
     <itunes:author>The Modal Future</itunes:author>
     <itunes:owner>
@@ -13,7 +15,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-    <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_v4_modal_future.png"/>
+    <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_modal_future_v5.png"/>
     <item>
       <title>Sensofusion: The Machine</title>
       <description>An Airfence unit weighs about five kilograms, listens across seventy megahertz to six gigahertz, and never transmits. This episode follows one radio signal through the box, from the antenna to the alert on an operator's screen. It explains how the box detects a drone, classifies it against a signal library, and either decodes the operator's location or triangulates a bearing, and where the radio goes blind.</description>
