@@ -15,13 +15,22 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_v4_modal_future.png"/>
     <item>
-      <title>Thesis: What the Build-Out Is Actually Betting On</title>
-      <description>The bears point at the glut — the capex, the debt, the chips that wear out in three years. The bulls point at capability — the benchmark scores climbing every month. Both are watching the wrong number. The whole trillion-dollar build-out rests on a single quantity almost nobody prices: how much capability the next dollar of reinforcement-learning practice actually buys. The committed view of where the machine settles over the next decade — what breaks first, what would prove it wrong, and the one thing to watch that isn't a benchmark. The finale of the AI-compute series.</description>
+      <title>Thesis: The Build-Out Is a Bet on Reinforcement Learning</title>
+      <description>The AI build-out — hundreds of billions of dollars of chips, buildings, and power — rests on demand continuing to grow, and most of that demand is the frontier labs consuming their own compute to train the next model. Whether they keep doing it depends on one measurable thing: how much capability another dollar of reinforcement-learning compute still buys. This episode makes the case that this single quantity, not chips or power or networking, decides whether the build-out is sound infrastructure or stranded assets — using the ScaleRL results, Epoch's compute figures, the CoreWeave and Oracle financings, and what would prove the argument wrong. The finale of the AI-compute series.</description>
       <itunes:episode>4</itunes:episode>
-      <itunes:duration>0:12:36</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep12_podcast_thesis_12099961.mp3" length="12099961" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-compute-clouds_ep12_podcast_thesis_12099961.mp3:12099961</guid>
-      <pubDate>Sat, 13 Jun 2026 17:08:58 -0000</pubDate>
+      <itunes:duration>0:11:12</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep12_podcast_thesis_10760820.mp3" length="10760820" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-compute-clouds_ep12_podcast_thesis_10760820.mp3:10760820</guid>
+      <pubDate>Sun, 14 Jun 2026 17:49:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Primer: How Chips Become One Computer</title>
+      <description>A frontier model is too large for one GPU, so it is split across tens of thousands of them that must exchange results at every step — and the speed of that exchange, not the speed of the chips, now sets the performance. This episode explains the two networks that do it: NVLink inside NVIDIA's 72-GPU rack, and InfiniBand or Ethernet between racks. It covers the copper reach limit that forces co-packaged optics in 2028, the optical-transceiver supply chain and its laser bottleneck, why one slow link stalls a 100,000-GPU training run, and why only about 40% of a cluster's compute reaches the model.</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:12:32</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep05_podcast_cluster_12032252.mp3" length="12032252" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-compute-clouds_ep05_podcast_cluster_12032252.mp3:12032252</guid>
+      <pubDate>Sun, 14 Jun 2026 17:47:49 -0000</pubDate>
     </item>
     <item>
       <title>Primer: How a Frontier Model Is Actually Trained</title>
@@ -40,15 +49,6 @@
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep06_podcast_building_13624676.mp3" length="13624676" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-compute-clouds_ep06_podcast_building_13624676.mp3:13624676</guid>
       <pubDate>Sat, 13 Jun 2026 17:04:32 -0000</pubDate>
-    </item>
-    <item>
-      <title>Primer: How Chips Become One Computer</title>
-      <description>A single chip can't hold a frontier AI model, so the machine is built from tens of thousands wired together — and the wiring, not the chips, is now the hard part. Inside the rack: a fabric called NVLink, two miles of copper, and a wall that copper hits in 2028. Between racks: ninety-eight thousand lasers, the fight between InfiniBand and Ethernet, and why only about forty percent of a cluster's compute ever turns into work. How chips become one computer. Part five of the AI-compute series.</description>
-      <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:18:34</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep05_podcast_cluster_17826420.mp3" length="17826420" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-compute-clouds_ep05_podcast_cluster_17826420.mp3:17826420</guid>
-      <pubDate>Sat, 13 Jun 2026 17:01:41 -0000</pubDate>
     </item>
     <item>
       <title>Sensofusion: The Machine</title>
