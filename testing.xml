@@ -35,7 +35,7 @@
       <pubDate>Sun, 14 Jun 2026 18:38:24 -0000</pubDate>
     </item>
     <item>
-      <title>Thesis: Light Reaches the AI Chip on Two Clocks, Not One</title>
+      <title>Co-Packaged Optics 2 — Thesis: Light Reaches the Chip on Two Clocks, Not One</title>
       <description>On March 12, 2026, AMD, Broadcom, NVIDIA, Meta, Microsoft and OpenAI signed one specification for optical interconnect soldered permanently inside AI machines. The same spring, NVIDIA shipped a five-meter machine held together by copper and light at once. This episode argues that demand and qualification, not energy, set the dates for light's move inward, and names the one number at GTC in March 2027 that tests the claim.</description>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>0:22:25</itunes:duration>
@@ -44,7 +44,7 @@
       <pubDate>Fri, 12 Jun 2026 22:24:14 -0000</pubDate>
     </item>
     <item>
-      <title>AI Compute 6: Inside the Data Center — Cooling and Power</title>
+      <title>AI Compute 6: Inside the Data Center — Power Delivery and Cooling</title>
       <description>A single NVIDIA NVL72 rack draws about 120 kilowatts, and a large AI data center holds thousands of them. The building's two jobs — deliver that power to the chips and carry the heat away — have both forced it to be rebuilt: liquid cooling because air can no longer remove the heat, and 800-volt DC power because the current at these densities is otherwise unmanageable. This episode explains both, the 120-to-600-to-1000-kilowatt rack trajectory and what each step breaks, and why the building is the one part of the system whose cost is rising while everything inside it falls.</description>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>0:08:19</itunes:duration>
@@ -62,7 +62,7 @@
       <pubDate>Sun, 14 Jun 2026 17:47:49 -0000</pubDate>
     </item>
     <item>
-      <title>Thesis: Why AI Automates Some Jobs and Not Others</title>
+      <title>AI Compute — Thesis (superseded): Why AI Automates Some Jobs and Not Others</title>
       <description>Upstart's annual report says 91% of its loans are now made with no human involved. Insurers reject an AI's hospital billing codes a third as often as the human coders'. OpenAI charges ten times more per token for the model that checks its own answers. This episode argues those are the same fact: machines take over work where the output is cheap to check, and stall where it isn't, no matter how capable the models get. It ends with a number due in September that will test the claim. Second of two episodes on AI compute.</description>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>0:19:59</itunes:duration>
@@ -71,7 +71,7 @@
       <pubDate>Thu, 11 Jun 2026 22:50:58 -0000</pubDate>
     </item>
     <item>
-      <title>Primer: Why AI Computers Are Switching from Copper to Light (register pass)</title>
+      <title>Co-Packaged Optics 1: Why AI Computers Switch from Copper to Light (register pass)</title>
       <description>Register-pass revision of the co-packaged-optics primer, rewritten to the invisible-narrator standard (the Sensofusion 'The Machine' calibration). Same content and numbers as the public version; the narration no longer addresses the listener or narrates its own structure. Draft for the director's listen.</description>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>0:26:29</itunes:duration>
@@ -80,7 +80,7 @@
       <pubDate>Sun, 14 Jun 2026 21:44:24 -0000</pubDate>
     </item>
     <item>
-      <title>Sensofusion: The Buyers</title>
+      <title>Sensofusion 2: The Buyers — Who Pays for an Airfence</title>
       <description>Who pays for an Airfence, read from the procurement records governments are required to publish. The episode follows the Finnish Border Guard's five-million-euro direct award, the Finnish military's three-vendor split, seven paid Ukrainian state contracts on the Prozorro portal, a single system sold to protect Israel's prime minister, and a Hungarian security-service tender. It explains what each buyer pays the box to do, who the real competitor is, and which events and laws make buyers appear.</description>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>0:18:57</itunes:duration>
@@ -89,7 +89,7 @@
       <pubDate>Sun, 14 Jun 2026 21:38:42 -0000</pubDate>
     </item>
     <item>
-      <title>Primer: How AI Compute Gets Built</title>
+      <title>AI Compute — Overview: How the Whole Machine Gets Built</title>
       <description>The supply chain behind one AI query: an $8 million rack in northern Virginia, wafers from TSMC, lithography machines from ASML (about sixty a year, for the whole planet), stacked memory from SK Hynix, and electricity bought three years ahead. How each piece works, why the bottleneck keeps moving from one step to another, and where the money pools. First of two episodes on AI compute.</description>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>0:33:42</itunes:duration>
