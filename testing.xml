@@ -97,5 +97,14 @@
       <guid isPermaLink="false">ai-compute-clouds_05_podcast_32356771.mp3:32356771</guid>
       <pubDate>Thu, 11 Jun 2026 22:20:08 -0000</pubDate>
     </item>
+    <item>
+      <title>ICEYE 1: The Machine — How a Suitcase-Sized Satellite Draws Radar Pictures of the Ground</title>
+      <description>An ICEYE satellite weighs about eighty-five kilograms, makes its own microwave illumination, and draws pictures of the ground through cloud and darkness. This episode follows the radar end to end: why spaceborne radar was historically the size of a truck, the one clause in the physics that lets a satellite go small, the two separate sharpnesses of a radar image, what a twenty-five-second stare actually buys, and where the small antenna goes blind — including why it cannot track a moving target. Disclosure: Lifeline Ventures is an investor in ICEYE.</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:20:02</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/iceye_11_machine_pod_19236196.mp3" length="19236196" type="audio/mpeg"/>
+      <guid isPermaLink="false">iceye_11_machine_pod_19236196.mp3:19236196</guid>
+      <pubDate>Mon, 15 Jun 2026 15:39:43 -0000</pubDate>
+    </item>
   </channel>
 </rss>
