@@ -17,7 +17,7 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_drafts.png"/>
     <item>
-      <title>Thesis: The Build-Out Is a Bet on Reinforcement Learning</title>
+      <title>AI Compute 12 — Thesis: The Build-Out Is a Bet on Reinforcement Learning</title>
       <description>The AI build-out — hundreds of billions of dollars of chips, buildings, and power — rests on demand continuing to grow, and most of that demand is the frontier labs consuming their own compute to train the next model. Whether they keep doing it depends on one measurable thing: how much capability another dollar of reinforcement-learning compute still buys. This episode makes the case that this single quantity, not chips or power or networking, decides whether the build-out is sound infrastructure or stranded assets — using the ScaleRL results, Epoch's compute figures, the CoreWeave and Oracle financings, and what would prove the argument wrong. The finale of the AI-compute series.</description>
       <itunes:episode>12</itunes:episode>
       <itunes:duration>0:11:12</itunes:duration>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 14 Jun 2026 17:49:43 -0000</pubDate>
     </item>
     <item>
-      <title>Primer: How a Frontier Model Is Actually Trained</title>
+      <title>AI Compute 8: How a Frontier Model Is Trained</title>
       <description>The training run that produces a named model is a small share of the computing a frontier lab spends — Epoch AI put OpenAI's 2024 final training runs at about a tenth of its research compute; the rest went to experiments. This episode explains what the rest is: the run as a system engineered to survive a hardware failure every few hours, the experiments that never ship, and the reinforcement-learning stage that now dominates — where the model generates attempts at checkable tasks and is trained on the ones that work, on an S-shaped curve whose ceiling the labs guard.</description>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>0:06:58</itunes:duration>
@@ -44,7 +44,7 @@
       <pubDate>Fri, 12 Jun 2026 22:24:14 -0000</pubDate>
     </item>
     <item>
-      <title>Primer: Inside an AI Data Center</title>
+      <title>AI Compute 6: Inside the Data Center — Cooling and Power</title>
       <description>A single NVIDIA NVL72 rack draws about 120 kilowatts, and a large AI data center holds thousands of them. The building's two jobs — deliver that power to the chips and carry the heat away — have both forced it to be rebuilt: liquid cooling because air can no longer remove the heat, and 800-volt DC power because the current at these densities is otherwise unmanageable. This episode explains both, the 120-to-600-to-1000-kilowatt rack trajectory and what each step breaks, and why the building is the one part of the system whose cost is rising while everything inside it falls.</description>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>0:08:19</itunes:duration>
@@ -53,7 +53,7 @@
       <pubDate>Sun, 14 Jun 2026 18:37:11 -0000</pubDate>
     </item>
     <item>
-      <title>Primer: How Chips Become One Computer</title>
+      <title>AI Compute 5: How Tens of Thousands of Chips Become One Computer</title>
       <description>A frontier model is too large for one GPU, so it is split across tens of thousands of them that must exchange results at every step — and the speed of that exchange, not the speed of the chips, now sets the performance. This episode explains the two networks that do it: NVLink inside NVIDIA's 72-GPU rack, and InfiniBand or Ethernet between racks. It covers the copper reach limit that forces co-packaged optics in 2028, the optical-transceiver supply chain and its laser bottleneck, why one slow link stalls a 100,000-GPU training run, and why only about 40% of a cluster's compute reaches the model.</description>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>0:12:32</itunes:duration>
