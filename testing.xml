@@ -80,8 +80,8 @@
       <pubDate>Sun, 14 Jun 2026 21:44:24 -0000</pubDate>
     </item>
     <item>
-      <title>Sensofusion 2: Stopping the Drone — the Counter-Drone Kill Chain and Where the Value Concentrates</title>
-      <description>Why counter-drone defense is mission-critical, the full menu of ways to stop a drone — radio, radar, cameras, sound, jamming, takeover, guns, interceptor drones, and high-power microwave — and where the durable value actually sits. A capability-and-architecture view of the field Sensofusion competes in, built around the kill chain rather than the procurement record, with a committed view of where the threat and the defense are headed.</description>
+      <title>Sensofusion 2: Every Way to Stop a Drone, and Who Wins</title>
+      <description>Why counter-drone defense is mission-critical, the full menu of ways to stop a drone (radio, radar, cameras, sound, jamming, takeover, guns, interceptor drones, and high-power microwave), and where the durable value actually sits. A capability-and-architecture view of the field Sensofusion competes in, built around the kill chain rather than the procurement record, with a committed view of where the threat and the defense are headed.</description>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>0:20:56</itunes:duration>
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/sensofusion_12_buyers_pod_20096356.mp3" length="20096356" type="audio/mpeg"/>
@@ -89,8 +89,8 @@
       <pubDate>Mon, 15 Jun 2026 18:37:19 -0000</pubDate>
     </item>
     <item>
-      <title>Verda 2: Renting the Machine — Build vs Buy, the Full Menu of AI Clouds, and Where the Value Sits</title>
-      <description>Why almost everyone rents AI compute instead of owning it, the full menu of where you can get it — hyperscalers, neoclouds, building your own, and the chip-level choice underneath — and a committed, capability-based view of who actually wins the AI-cloud business and why. Renting raw GPUs commoditizes; the durable advantage is in what you can control around the chip: capital, power, software, and sovereignty. Verda's bet is power and a European home, placed honestly against the things it does not control — the single chip supplier whose hardware it resells, the capital that favors scale, and the custom silicon eroding the rental business from underneath. Closes with where the market is heading and what would prove the view wrong.</description>
+      <title>Verda 2: Build It or Rent It, and Who Wins the AI Cloud</title>
+      <description>Why almost everyone rents AI compute instead of owning it, the full menu of where you can get it (hyperscalers, neoclouds, building your own, and the chip-level choice underneath), and a committed, capability-based view of who actually wins the AI-cloud business and why. Renting raw GPUs commoditizes; the durable advantage is in what you can control around the chip: capital, power, software, and sovereignty. Verda's bet is power and a European home, placed honestly against the things it does not control: the single chip supplier whose hardware it resells, the capital that favors scale, and the custom silicon eroding the rental business from underneath. Closes with where the market is heading and what would prove the view wrong.</description>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>0:13:52</itunes:duration>
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_12_market_pod_13327507.mp3" length="13327507" type="audio/mpeg"/>
@@ -107,8 +107,8 @@
       <pubDate>Thu, 11 Jun 2026 22:20:08 -0000</pubDate>
     </item>
     <item>
-      <title>ICEYE 1: The Machine — How a Suitcase-Sized Satellite Draws Radar Pictures of the Ground</title>
-      <description>An ICEYE satellite weighs about eighty-five kilograms, makes its own microwave illumination, and draws pictures of the ground through cloud and darkness. This episode follows the radar end to end: why spaceborne radar was historically the size of a truck, the one clause in the physics that lets a satellite go small, the two separate sharpnesses of a radar image, what a twenty-five-second stare actually buys, and where the small antenna goes blind — including why it cannot track a moving target.</description>
+      <title>ICEYE 1: How a Small Radar Satellite Sees Through Clouds at Night</title>
+      <description>An ICEYE satellite weighs about eighty-five kilograms, makes its own microwave illumination, and draws pictures of the ground through cloud and darkness. This episode follows the radar end to end: why spaceborne radar was historically the size of a truck, the one clause in the physics that lets a satellite go small, the two separate sharpnesses of a radar image, what a twenty-five-second stare actually buys, and where the small antenna goes blind, including why it cannot track a moving target.</description>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>0:19:57</itunes:duration>
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/iceye_11_machine_pod_19163471.mp3" length="19163471" type="audio/mpeg"/>
@@ -116,8 +116,8 @@
       <pubDate>Mon, 15 Jun 2026 23:23:49 -0000</pubDate>
     </item>
     <item>
-      <title>Verda 1: The Machine — What You Rent When You Rent an AI Cloud</title>
-      <description>A neocloud is a machine for turning electricity into AI compute. This episode follows what a customer of Verda, a Helsinki GPU cloud, actually rents: a single GPU, then eight of them wired into one server, then thousands wired into one computer across two very different networks, and the building that has to deliver the power and carry away the heat. It explains why the binding constraint is power rather than chips, why Verda sites its data centers on cheap, clean, cold Nordic power and sells the waste heat back to the city, and the honest limits — single-supplier dependence on NVIDIA, modest scale, a middling independent rating, and a cold-climate edge that shrinks as every rack moves to liquid cooling.</description>
+      <title>Verda 1: How an AI Cloud Turns Power Into Compute</title>
+      <description>A neocloud is a machine for turning electricity into AI compute. This episode follows what a customer of Verda, a Helsinki GPU cloud, actually rents: a single GPU, then eight of them wired into one server, then thousands wired into one computer across two very different networks, and the building that has to deliver the power and carry away the heat. It explains why the binding constraint is power rather than chips, why Verda sites its data centers on cheap, clean, cold Nordic power and sells the waste heat back to the city, and the honest limits: single-supplier dependence on NVIDIA, modest scale, a middling independent rating, and a cold-climate edge that shrinks as every rack moves to liquid cooling.</description>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>0:14:59</itunes:duration>
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_11_machine_pod_14395811.mp3" length="14395811" type="audio/mpeg"/>
