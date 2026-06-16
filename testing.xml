@@ -83,19 +83,19 @@
       <title>Sensofusion 2: Every Way to Stop a Drone, and Who Wins</title>
       <description>Why counter-drone defense is mission-critical, the full menu of ways to stop a drone (radio, radar, cameras, sound, jamming, takeover, guns, interceptor drones, and high-power microwave), and where the durable value actually sits. A capability-and-architecture view of the field Sensofusion competes in, with a committed view of where the threat and the defense are headed.</description>
       <itunes:episode>2</itunes:episode>
-      <itunes:duration>0:18:51</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/sensofusion_12_buyers_pod_18102273.mp3" length="18102273" type="audio/mpeg"/>
-      <guid isPermaLink="false">sensofusion_12_buyers_pod_18102273.mp3:18102273</guid>
-      <pubDate>Tue, 16 Jun 2026 12:35:34 -0000</pubDate>
+      <itunes:duration>0:19:12</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/sensofusion_12_buyers_pod_18435804.mp3" length="18435804" type="audio/mpeg"/>
+      <guid isPermaLink="false">sensofusion_12_buyers_pod_18435804.mp3:18435804</guid>
+      <pubDate>Tue, 16 Jun 2026 16:07:27 -0000</pubDate>
     </item>
     <item>
       <title>Verda 2: Build It or Rent It, and Who Wins the AI Cloud</title>
-      <description>Why almost everyone rents AI compute instead of owning it (the cost of a cluster, the depreciation bet on a chip superseded yearly, and the utilization that bursty AI work never reaches), the full menu of where to get it (hyperscalers, neoclouds, building your own, and the chip choice underneath), and what actually separates the winners. The chip is common, but the speed and reliability a cloud delivers on it are not: on identical GPUs, achieved performance and uptime vary widely, which is why a reserved AI cloud is a performance product rather than a commodity, and why demanding customers pick and keep a provider on quality. Where Verda fits, and where the market is heading, with what would prove the view wrong.</description>
+      <description>Why almost everyone rents AI compute instead of owning it (the cost of a cluster, the depreciation bet on a chip superseded yearly, and the utilization that bursty AI work rarely reaches), the menu of where to get it (hyperscalers, neoclouds, building your own, and the chip choice underneath), and what actually separates the winners. The chip is common, but the speed and reliability a cloud delivers on it are not: on identical GPUs, achieved performance and uptime vary widely, and buyers pay large premiums for the better operators on the same hardware. So an AI cloud is a performance product, not a commodity, and a well-run focused operator can win and keep demanding customers. Where Verda fits, with its real strengths and real limits, and where the market is heading.</description>
       <itunes:episode>2</itunes:episode>
-      <itunes:duration>0:09:51</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_12_market_pod_9459295.mp3" length="9459295" type="audio/mpeg"/>
-      <guid isPermaLink="false">verda_12_market_pod_9459295.mp3:9459295</guid>
-      <pubDate>Tue, 16 Jun 2026 12:32:19 -0000</pubDate>
+      <itunes:duration>0:13:18</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_12_market_pod_12776219.mp3" length="12776219" type="audio/mpeg"/>
+      <guid isPermaLink="false">verda_12_market_pod_12776219.mp3:12776219</guid>
+      <pubDate>Tue, 16 Jun 2026 16:01:47 -0000</pubDate>
     </item>
     <item>
       <title>AI Compute Overview: How the Whole Machine Gets Built</title>
@@ -119,10 +119,10 @@
       <title>Verda 1: What You Actually Rent From an AI Cloud</title>
       <description>What a customer of Verda, a GPU cloud, is actually buying: a single GPU and why a model is too big for one, eight of them wired into one server, thousands wired into one computer across two very different networks, and the building that delivers the power and removes the heat. Then the part that decides the purchase: the levels you can buy at, from a bare machine to a finished model behind an API, who buys each and why; why a training job and an inference job want different hardware; and why two clouds running the identical NVIDIA chips deliver very different speed and reliability, which is what a serious buyer is really choosing between.</description>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:11:20</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_11_machine_pod_10893313.mp3" length="10893313" type="audio/mpeg"/>
-      <guid isPermaLink="false">verda_11_machine_pod_10893313.mp3:10893313</guid>
-      <pubDate>Tue, 16 Jun 2026 12:30:34 -0000</pubDate>
+      <itunes:duration>0:11:56</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_11_machine_pod_11465499.mp3" length="11465499" type="audio/mpeg"/>
+      <guid isPermaLink="false">verda_11_machine_pod_11465499.mp3:11465499</guid>
+      <pubDate>Tue, 16 Jun 2026 16:04:00 -0000</pubDate>
     </item>
   </channel>
 </rss>

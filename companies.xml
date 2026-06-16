@@ -17,7 +17,7 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_companies.png"/>
     <item>
-      <title>Sensofusion 1: How Airfence Finds a Drone and Its Operator</title>
+      <title>Sensofusion 1: How Airfence Detects a Drone by Its Radio</title>
       <description>An Airfence unit weighs about five kilograms, listens across seventy megahertz to six gigahertz, and never transmits. This episode follows one radio signal through the box, from the antenna to the alert on an operator's screen. It explains how the box detects a drone, classifies it against a signal library, and either decodes the operator's location or triangulates a bearing, and where the radio goes blind.</description>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>0:21:31</itunes:duration>
