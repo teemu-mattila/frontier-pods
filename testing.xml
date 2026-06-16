@@ -80,7 +80,7 @@
       <pubDate>Sun, 14 Jun 2026 21:44:24 -0000</pubDate>
     </item>
     <item>
-      <title>Sensofusion 2: Every Way to Stop a Drone, and Who Wins</title>
+      <title>Sensofusion 2: The Counter-Drone Kill Chain</title>
       <description>Why counter-drone defense is mission-critical, the full menu of ways to stop a drone (radio, radar, cameras, sound, jamming, takeover, guns, interceptor drones, and high-power microwave), and where the durable value actually sits. A capability-and-architecture view of the field Sensofusion competes in, with a committed view of where the threat and the defense are headed.</description>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>0:19:12</itunes:duration>
@@ -89,7 +89,7 @@
       <pubDate>Tue, 16 Jun 2026 16:07:27 -0000</pubDate>
     </item>
     <item>
-      <title>Verda 2: Build It or Rent It, and Who Wins the AI Cloud</title>
+      <title>Verda 2: Who Wins the AI Cloud</title>
       <description>Why almost everyone rents AI compute instead of owning it (the cost of a cluster, the depreciation bet on a chip superseded yearly, and the utilization that bursty AI work rarely reaches), the menu of where to get it (hyperscalers, neoclouds, building your own, and the chip choice underneath), and what actually separates the winners. The chip is common, but the speed and reliability a cloud delivers on it are not: on identical GPUs, achieved performance and uptime vary widely, and buyers pay large premiums for the better operators on the same hardware. So an AI cloud is a performance product, not a commodity, and a well-run focused operator can win and keep demanding customers. Where Verda fits, with its real strengths and real limits, and where the market is heading.</description>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>0:13:18</itunes:duration>
@@ -107,7 +107,7 @@
       <pubDate>Thu, 11 Jun 2026 22:20:08 -0000</pubDate>
     </item>
     <item>
-      <title>ICEYE 1: How a Small Radar Satellite Sees Through Clouds at Night</title>
+      <title>ICEYE 1: The Suitcase-Sized Radar Satellite</title>
       <description>An ICEYE satellite weighs about eighty-five kilograms, makes its own microwave illumination, and draws pictures of the ground through cloud and darkness. This episode follows the radar end to end: why spaceborne radar was historically the size of a truck, the one clause in the physics that lets a satellite go small, the two separate sharpnesses of a radar image, what a twenty-five-second stare actually buys, and where the small antenna goes blind, including why it cannot track a moving target.</description>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>0:19:52</itunes:duration>
@@ -116,7 +116,7 @@
       <pubDate>Tue, 16 Jun 2026 12:40:07 -0000</pubDate>
     </item>
     <item>
-      <title>Verda 1: What You Actually Rent From an AI Cloud</title>
+      <title>Verda 1: Inside an AI Cloud</title>
       <description>What a customer of Verda, a GPU cloud, is actually buying: a single GPU and why a model is too big for one, eight of them wired into one server, thousands wired into one computer across two very different networks, and the building that delivers the power and removes the heat. Then the part that decides the purchase: the levels you can buy at, from a bare machine to a finished model behind an API, who buys each and why; why a training job and an inference job want different hardware; and why two clouds running the identical NVIDIA chips deliver very different speed and reliability, which is what a serious buyer is really choosing between.</description>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>0:11:56</itunes:duration>
