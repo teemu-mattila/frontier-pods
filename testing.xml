@@ -89,6 +89,15 @@
       <pubDate>Mon, 15 Jun 2026 18:37:19 -0000</pubDate>
     </item>
     <item>
+      <title>Verda 2: Renting the Machine — Build vs Buy, the Full Menu of AI Clouds, and Where the Value Sits</title>
+      <description>Why almost everyone rents AI compute instead of owning it, the full menu of where you can get it — hyperscalers, neoclouds, building your own, and the chip-level choice underneath — and a committed, capability-based view of who actually wins the AI-cloud business and why. Renting raw GPUs commoditizes; the durable advantage is in what you can control around the chip: capital, power, software, and sovereignty. Verda's bet is power and a European home, placed honestly against the things it does not control — the single chip supplier whose hardware it resells, the capital that favors scale, and the custom silicon eroding the rental business from underneath. Closes with where the market is heading and what would prove the view wrong.</description>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>0:13:52</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_12_market_pod_13327507.mp3" length="13327507" type="audio/mpeg"/>
+      <guid isPermaLink="false">verda_12_market_pod_13327507.mp3:13327507</guid>
+      <pubDate>Tue, 16 Jun 2026 08:35:19 -0000</pubDate>
+    </item>
+    <item>
       <title>AI Compute — Overview: How the Whole Machine Gets Built</title>
       <description>The supply chain behind one AI query: an $8 million rack in northern Virginia, wafers from TSMC, lithography machines from ASML (about sixty a year, for the whole planet), stacked memory from SK Hynix, and electricity bought three years ahead. How each piece works, why the bottleneck keeps moving from one step to another, and where the money pools. First of two episodes on AI compute.</description>
       <itunes:episode>1</itunes:episode>
