@@ -17,8 +17,8 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_drafts.png"/>
     <item>
-      <title>AI Compute 12 — Thesis: The Build-Out Is a Bet on Reinforcement Learning</title>
-      <description>The AI build-out — hundreds of billions of dollars of chips, buildings, and power — rests on demand continuing to grow, and most of that demand is the frontier labs consuming their own compute to train the next model. Whether they keep doing it depends on one measurable thing: how much capability another dollar of reinforcement-learning compute still buys. This episode makes the case that this single quantity, not chips or power or networking, decides whether the build-out is sound infrastructure or stranded assets — using the ScaleRL results, Epoch's compute figures, the CoreWeave and Oracle financings, and what would prove the argument wrong. The finale of the AI-compute series.</description>
+      <title>AI Compute 12: The Build-Out Is a Bet on Reinforcement Learning</title>
+      <description>The AI build-out, hundreds of billions of dollars of chips, buildings, and power, rests on demand continuing to grow, and most of that demand is the frontier labs consuming their own compute to train the next model. Whether they keep doing it depends on one measurable thing: how much capability another dollar of reinforcement-learning compute still buys. This episode makes the case that this single quantity, not chips or power or networking, decides whether the build-out is sound infrastructure or stranded assets, using the ScaleRL results, Epoch's compute figures, the CoreWeave and Oracle financings, and what would prove the argument wrong. The finale of the AI-compute series.</description>
       <itunes:episode>12</itunes:episode>
       <itunes:duration>0:11:12</itunes:duration>
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep12_podcast_thesis_10760820.mp3" length="10760820" type="audio/mpeg"/>
@@ -27,7 +27,7 @@
     </item>
     <item>
       <title>AI Compute 8: How a Frontier Model Is Trained</title>
-      <description>The training run that produces a named model is a small share of the computing a frontier lab spends — Epoch AI put OpenAI's 2024 final training runs at about a tenth of its research compute; the rest went to experiments. This episode explains what the rest is: the run as a system engineered to survive a hardware failure every few hours, the experiments that never ship, and the reinforcement-learning stage that now dominates — where the model generates attempts at checkable tasks and is trained on the ones that work, on an S-shaped curve whose ceiling the labs guard.</description>
+      <description>The training run that produces a named model is a small share of the computing a frontier lab spends. Epoch AI put OpenAI's 2024 final training runs at about a tenth of its research compute; the rest went to experiments. This episode explains what the rest is: the run as a system engineered to survive a hardware failure every few hours, the experiments that never ship, and the reinforcement-learning stage that now dominates, where the model generates attempts at checkable tasks and is trained on the ones that work, on an S-shaped curve whose ceiling the labs guard.</description>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>0:06:58</itunes:duration>
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep08_podcast_training_run_6701182.mp3" length="6701182" type="audio/mpeg"/>
@@ -35,7 +35,7 @@
       <pubDate>Sun, 14 Jun 2026 18:38:24 -0000</pubDate>
     </item>
     <item>
-      <title>Co-Packaged Optics 2 — Thesis: Light Reaches the Chip on Two Clocks, Not One</title>
+      <title>Co-Packaged Optics 2: Light Reaches the Chip on Two Clocks, Not One</title>
       <description>On March 12, 2026, AMD, Broadcom, NVIDIA, Meta, Microsoft and OpenAI signed one specification for optical interconnect soldered permanently inside AI machines. The same spring, NVIDIA shipped a five-meter machine held together by copper and light at once. This episode argues that demand and qualification, not energy, set the dates for light's move inward, and names the one number at GTC in March 2027 that tests the claim.</description>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>0:22:25</itunes:duration>
@@ -44,8 +44,8 @@
       <pubDate>Fri, 12 Jun 2026 22:24:14 -0000</pubDate>
     </item>
     <item>
-      <title>AI Compute 6: Inside the Data Center — Power Delivery and Cooling</title>
-      <description>A single NVIDIA NVL72 rack draws about 120 kilowatts, and a large AI data center holds thousands of them. The building's two jobs — deliver that power to the chips and carry the heat away — have both forced it to be rebuilt: liquid cooling because air can no longer remove the heat, and 800-volt DC power because the current at these densities is otherwise unmanageable. This episode explains both, the 120-to-600-to-1000-kilowatt rack trajectory and what each step breaks, and why the building is the one part of the system whose cost is rising while everything inside it falls.</description>
+      <title>AI Compute 6: Power Delivery and Cooling Inside the Data Center</title>
+      <description>A single NVIDIA NVL72 rack draws about 120 kilowatts, and a large AI data center holds thousands of them. The building's two jobs, delivering that power to the chips and carrying the heat away, have both forced it to be rebuilt: liquid cooling because air can no longer remove the heat, and 800-volt DC power because the current at these densities is otherwise unmanageable. This episode explains both, the 120-to-600-to-1000-kilowatt rack trajectory and what each step breaks, and why the building is the one part of the system whose cost is rising while everything inside it falls.</description>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>0:08:19</itunes:duration>
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep06_podcast_building_7991004.mp3" length="7991004" type="audio/mpeg"/>
@@ -54,7 +54,7 @@
     </item>
     <item>
       <title>AI Compute 5: How Tens of Thousands of Chips Become One Computer</title>
-      <description>A frontier model is too large for one GPU, so it is split across tens of thousands of them that must exchange results at every step — and the speed of that exchange, not the speed of the chips, now sets the performance. This episode explains the two networks that do it: NVLink inside NVIDIA's 72-GPU rack, and InfiniBand or Ethernet between racks. It covers the copper reach limit that forces co-packaged optics in 2028, the optical-transceiver supply chain and its laser bottleneck, why one slow link stalls a 100,000-GPU training run, and why only about 40% of a cluster's compute reaches the model.</description>
+      <description>A frontier model is too large for one GPU, so it is split across tens of thousands of them that must exchange results at every step, and the speed of that exchange, not the speed of the chips, now sets the performance. This episode explains the two networks that do it: NVLink inside NVIDIA's 72-GPU rack, and InfiniBand or Ethernet between racks. It covers the copper reach limit that forces co-packaged optics in 2028, the optical-transceiver supply chain and its laser bottleneck, why one slow link stalls a 100,000-GPU training run, and why only about 40% of a cluster's compute reaches the model.</description>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>0:12:32</itunes:duration>
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep05_podcast_cluster_12032252.mp3" length="12032252" type="audio/mpeg"/>
@@ -62,7 +62,7 @@
       <pubDate>Sun, 14 Jun 2026 17:47:49 -0000</pubDate>
     </item>
     <item>
-      <title>AI Compute — Thesis (superseded): Why AI Automates Some Jobs and Not Others</title>
+      <title>AI Compute Thesis (superseded): Why AI Automates Some Jobs and Not Others</title>
       <description>Upstart's annual report says 91% of its loans are now made with no human involved. Insurers reject an AI's hospital billing codes a third as often as the human coders'. OpenAI charges ten times more per token for the model that checks its own answers. This episode argues those are the same fact: machines take over work where the output is cheap to check, and stall where it isn't, no matter how capable the models get. It ends with a number due in September that will test the claim. Second of two episodes on AI compute.</description>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>0:19:59</itunes:duration>
@@ -98,7 +98,7 @@
       <pubDate>Tue, 16 Jun 2026 08:35:19 -0000</pubDate>
     </item>
     <item>
-      <title>AI Compute — Overview: How the Whole Machine Gets Built</title>
+      <title>AI Compute Overview: How the Whole Machine Gets Built</title>
       <description>The supply chain behind one AI query: an $8 million rack in northern Virginia, wafers from TSMC, lithography machines from ASML (about sixty a year, for the whole planet), stacked memory from SK Hynix, and electricity bought three years ahead. How each piece works, why the bottleneck keeps moving from one step to another, and where the money pools. First of two episodes on AI compute.</description>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>0:33:42</itunes:duration>
