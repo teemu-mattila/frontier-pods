@@ -80,6 +80,15 @@
       <pubDate>Sun, 14 Jun 2026 21:44:24 -0000</pubDate>
     </item>
     <item>
+      <title>Verda 3: What Stands Between a Neocloud and Ten Billion Dollars</title>
+      <description>A committed analytical view of whether a focused European GPU cloud like Verda can become a $10 billion company. It works through the four things that actually decide the outcome, drawn from how every neocloud that reached that scale got there: a contracted anchor tenant, NVIDIA allocation priority, the capital to finance the fleet, and power at scale. It places Verda honestly against each, names the one path to scale that needs none of them (the Together AI software-margin route), and lands on a base case, the contingent bull case, and the risks that matter most. Built from a ten-axis deep research pass and the views of the best-informed people in AI infrastructure.</description>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>0:12:50</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_21_thesis_pod_12321479.mp3" length="12321479" type="audio/mpeg"/>
+      <guid isPermaLink="false">verda_21_thesis_pod_12321479.mp3:12321479</guid>
+      <pubDate>Wed, 17 Jun 2026 00:38:57 -0000</pubDate>
+    </item>
+    <item>
       <title>Sensofusion 2: Anyone Can Spot a Drone. Few Can Stop One.</title>
       <description>Why counter-drone defense is mission-critical, the full menu of ways to stop a drone (radio, radar, cameras, sound, jamming, takeover, guns, interceptor drones, and high-power microwave), and where the durable value actually sits. A capability-and-architecture view of the field Sensofusion competes in, with a committed view of where the threat and the defense are headed.</description>
       <itunes:episode>2</itunes:episode>
