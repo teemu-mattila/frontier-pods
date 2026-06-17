@@ -81,12 +81,12 @@
     </item>
     <item>
       <title>Verda 3: What Stands Between a Neocloud and Ten Billion Dollars</title>
-      <description>A committed analytical view of whether a focused European GPU cloud like Verda can become a $10 billion company. It works through the four things that actually decide the outcome, drawn from how every neocloud that reached that scale got there: a contracted anchor tenant, NVIDIA allocation priority, the capital to finance the fleet, and power at scale. It places Verda honestly against each, names the one path to scale that needs none of them (the Together AI software-margin route), and lands on a base case, the contingent bull case, and the risks that matter most. Built from a ten-axis deep research pass and the views of the best-informed people in AI infrastructure.</description>
+      <description>A committed analytical view of whether a focused European GPU cloud like Verda can become a $10 billion company, rebuilt on roughly fifty expert-call transcripts from former operators at Nebius, CoreWeave, Lambda, Nscale, NVIDIA, OpenAI and the hyperscalers. It works through the chain that actually pulls a neocloud to that scale: NVIDIA rations the newest chips and brokers the anchor contracts, the anchor makes the fleet financeable, and the fleet buys the scale. It explains the two doors to an anchor, why the GPU-cloud layer is the hollowed middle of the value chain, why a company has to own a chokepoint to escape it, and why Verda is the right shape in the wrong position. Lands on a base case, a contingent bull case, and the questions that decide it.</description>
       <itunes:episode>3</itunes:episode>
-      <itunes:duration>0:12:50</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_21_thesis_pod_12321479.mp3" length="12321479" type="audio/mpeg"/>
-      <guid isPermaLink="false">verda_21_thesis_pod_12321479.mp3:12321479</guid>
-      <pubDate>Wed, 17 Jun 2026 00:38:57 -0000</pubDate>
+      <itunes:duration>0:13:28</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_21_thesis_pod_12935879.mp3" length="12935879" type="audio/mpeg"/>
+      <guid isPermaLink="false">verda_21_thesis_pod_12935879.mp3:12935879</guid>
+      <pubDate>Wed, 17 Jun 2026 09:28:34 -0000</pubDate>
     </item>
     <item>
       <title>Sensofusion 2: Anyone Can Spot a Drone. Few Can Stop One.</title>
