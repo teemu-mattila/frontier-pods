@@ -80,6 +80,15 @@
       <pubDate>Sun, 14 Jun 2026 21:44:24 -0000</pubDate>
     </item>
     <item>
+      <title>ICEYE 3: Why the Sharpest Radar Doesn't Win</title>
+      <description>The third episode is the argument. There is a way to rank radar-satellite companies that feels obviously right, by how sharp a picture each one takes, and it predicts the wrong winner: by that scoreboard ICEYE is third, and third is winning the market. This episode works through why, by taking apart four widely-held beliefs about the field and letting a committed view of the technology fall out of the corrections. That resolution is the contest (it is walled, and the wall is a spectrum regulation, not physics). That radar can track moving things like video (it cannot, and the one real frontier for fixing that is flying satellites in coherent pairs, not building a sharper radar). That you are buying images (you are increasingly buying answers, and the value is leaving the sensor for the layer that fuses and delivers them). And that the sovereign-buying wave is a defense bubble (the signed core is structural; the commercial edge and the marginal deals are not). Where the most relevant technologies and products actually go over the next five years, and the things that would prove each call wrong.</description>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>0:22:17</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/iceye_13_race_pod_21393283.mp3" length="21393283" type="audio/mpeg"/>
+      <guid isPermaLink="false">iceye_13_race_pod_21393283.mp3:21393283</guid>
+      <pubDate>Wed, 17 Jun 2026 19:50:57 -0000</pubDate>
+    </item>
+    <item>
       <title>Verda 3: What the Series B Deck Changes</title>
       <description>An internal, committed view of whether Verda, a Helsinki GPU cloud, can become a $10 billion company, updated against the company's own June 2026 Series B materials. An earlier version, built on roughly fifty expert-call transcripts, concluded Verda was the right shape in the wrong position: disciplined and cheap on power, but outside the chain that pulls a neocloud to scale. The company's fundraise materials claim the opposite on nearly every point: launch-partner allocation on NVIDIA's next platform, an anchor-grade foundation-lab contract, utilization and net retention well above break-even, a real power pipeline, and AI-native growth customers. This episode works through what the deck answers, what it leaves to verify, and the central thing it changes: Verda is now choosing the leveraged, asset-backed scaling path it was previously praised for avoiding. It lands on the handful of questions that decide whether the claims hold and whether a roughly seventeen-billion-euro capital plan is financeable before the depreciation and custom-silicon cycle turns. Internal investment view; company-stated figures are unaudited.</description>
       <itunes:episode>3</itunes:episode>
