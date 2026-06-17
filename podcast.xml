@@ -20,10 +20,10 @@
       <title>Sensofusion 1: What a Drone Gives Away Over the Air</title>
       <description>An Airfence unit weighs about five kilograms, listens across seventy megahertz to six gigahertz, and never transmits. This episode follows one radio signal through the box, from the antenna to the alert on an operator's screen. It explains how the box detects a drone, classifies it against a signal library, and either decodes the operator's location or triangulates a bearing, and where the radio goes blind.</description>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:21:31</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/sensofusion_11_machine_pod_20670214.mp3" length="20670214" type="audio/mpeg"/>
-      <guid isPermaLink="false">sensofusion_11_machine_pod_20670214.mp3:20670214</guid>
-      <pubDate>Sat, 13 Jun 2026 10:15:26 -0000</pubDate>
+      <itunes:duration>0:21:33</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/sensofusion_11_machine_pod_20702815.mp3" length="20702815" type="audio/mpeg"/>
+      <guid isPermaLink="false">sensofusion_11_machine_pod_20702815.mp3:20702815</guid>
+      <pubDate>Wed, 17 Jun 2026 21:15:03 -0000</pubDate>
     </item>
   </channel>
 </rss>
