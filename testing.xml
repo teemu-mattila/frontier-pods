@@ -98,6 +98,15 @@
       <pubDate>Tue, 16 Jun 2026 23:42:08 -0000</pubDate>
     </item>
     <item>
+      <title>ICEYE 2: The Same Radar, Sold Five Ways</title>
+      <description>Why all-weather, day-and-night, frequently-refreshed radar intelligence is mission-critical, and why governments stopped renting it and started owning it. The full menu of ways to get ground truth from space (optical cameras, free open radar, truck-sized agency radar, the small-radar rivals, aircraft, and other sensing types), the five structurally different transactions ICEYE runs on one instrument (a data subscription, a transfer of control, a whole-satellite sale, a turnkey sovereign system, and a factory on the buyer's own soil), and a committed view of where the durable value sits. ICEYE is third on raw sharpness behind Umbra and Capella and wins anyway, on revisit, speed, and sovereign ownership. Where the field is heading, with the thing that would prove each claim wrong.</description>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>0:23:53</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/iceye_12_buyers_pod_22942240.mp3" length="22942240" type="audio/mpeg"/>
+      <guid isPermaLink="false">iceye_12_buyers_pod_22942240.mp3:22942240</guid>
+      <pubDate>Wed, 17 Jun 2026 16:42:28 -0000</pubDate>
+    </item>
+    <item>
       <title>Verda 2: The Same Chip, a Different Cloud</title>
       <description>Why almost everyone rents AI compute instead of owning it (the cost of a cluster, the depreciation bet on a chip superseded yearly, and the utilization that bursty AI work rarely reaches), the menu of where to get it (hyperscalers, neoclouds, building your own, and the chip choice underneath), and what actually separates the winners. The chip is common, but the speed and reliability a cloud delivers on it are not: on identical GPUs, achieved performance and uptime vary widely, and buyers pay large premiums for the better operators on the same hardware. So an AI cloud is a performance product, not a commodity, and a well-run focused operator can win and keep demanding customers. Where Verda fits, with its real strengths and real limits, and where the market is heading.</description>
       <itunes:episode>2</itunes:episode>
