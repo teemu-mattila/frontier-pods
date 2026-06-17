@@ -71,6 +71,15 @@
       <pubDate>Thu, 11 Jun 2026 22:50:58 -0000</pubDate>
     </item>
     <item>
+      <title>Verda Internal Investment Thesis: What the Series B Deck Changes</title>
+      <description>An internal, committed view of whether Verda, a Helsinki GPU cloud, can become a $10 billion company, updated against the company's own June 2026 Series B materials. An earlier version, built on roughly fifty expert-call transcripts, concluded Verda was the right shape in the wrong position: disciplined and cheap on power, but outside the chain that pulls a neocloud to scale. The company's fundraise materials claim the opposite on nearly every point: launch-partner allocation on NVIDIA's next platform, an anchor-grade foundation-lab contract, utilization and net retention well above break-even, a real power pipeline, and AI-native growth customers. This episode works through what the deck answers, what it leaves to verify, and the central thing it changes: Verda is now choosing the leveraged, asset-backed scaling path it was previously praised for avoiding. It lands on the handful of questions that decide whether the claims hold and whether a roughly seventeen-billion-euro capital plan is financeable before the depreciation and custom-silicon cycle turns. Internal investment view; company-stated figures are unaudited.</description>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>0:15:03</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_21_thesis_pod_14449310.mp3" length="14449310" type="audio/mpeg"/>
+      <guid isPermaLink="false">verda_21_thesis_pod_14449310.mp3:14449310</guid>
+      <pubDate>Wed, 17 Jun 2026 10:28:13 -0000</pubDate>
+    </item>
+    <item>
       <title>Co-Packaged Optics 1: Why AI Computers Switch from Copper to Light (register pass)</title>
       <description>Register-pass revision of the co-packaged-optics primer, rewritten to the invisible-narrator standard (the Sensofusion 'The Machine' calibration). Same content and numbers as the public version; the narration no longer addresses the listener or narrates its own structure. Draft for the director's listen.</description>
       <itunes:episode>3</itunes:episode>
@@ -98,13 +107,13 @@
       <pubDate>Wed, 17 Jun 2026 19:50:57 -0000</pubDate>
     </item>
     <item>
-      <title>Verda 3: What the Series B Deck Changes</title>
-      <description>An internal, committed view of whether Verda, a Helsinki GPU cloud, can become a $10 billion company, updated against the company's own June 2026 Series B materials. An earlier version, built on roughly fifty expert-call transcripts, concluded Verda was the right shape in the wrong position: disciplined and cheap on power, but outside the chain that pulls a neocloud to scale. The company's fundraise materials claim the opposite on nearly every point: launch-partner allocation on NVIDIA's next platform, an anchor-grade foundation-lab contract, utilization and net retention well above break-even, a real power pipeline, and AI-native growth customers. This episode works through what the deck answers, what it leaves to verify, and the central thing it changes: Verda is now choosing the leveraged, asset-backed scaling path it was previously praised for avoiding. It lands on the handful of questions that decide whether the claims hold and whether a roughly seventeen-billion-euro capital plan is financeable before the depreciation and custom-silicon cycle turns. Internal investment view; company-stated figures are unaudited.</description>
+      <title>Verda 3: The Chip Was Never the Hard Part</title>
+      <description>The third episode is the argument. The whole AI-compute boom is read through the chip, and the chip is the one part of the system that commoditizes and depreciates fastest. This episode corrects four beliefs with the mechanism and lets a committed five-year view fall out. That the bottleneck is chips (it crossed to power: grid queues over four years, transformers over two, turbines sold out to the end of the decade, and the people running the buildouts saying they have chips they cannot plug in). That NVIDIA wins forever (the CUDA moat holds in training and erodes in inference, where serving software iterates weekly and custom silicon is aimed first, though a merchant cloud can still only buy NVIDIA and AMD and rides the roadmap as a price-taker). That it is a training boom (it is an inference and reasoning boom, with reasoning burning far more compute per query, against an efficiency curve falling fast the other way). And that a neocloud is a money-printer or a pure commodity (it is the hollowed middle of a barbell, where operational quality earns a premium but only owning power or climbing the stack earns an escape, and the real fragility is the financing, not the demand). Where Verda sits on that map, capability by capability, and the four things that would prove the view wrong. No financials.</description>
       <itunes:episode>3</itunes:episode>
-      <itunes:duration>0:15:03</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_21_thesis_pod_14449310.mp3" length="14449310" type="audio/mpeg"/>
-      <guid isPermaLink="false">verda_21_thesis_pod_14449310.mp3:14449310</guid>
-      <pubDate>Wed, 17 Jun 2026 10:28:13 -0000</pubDate>
+      <itunes:duration>0:19:14</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_13_race_pod_18478854.mp3" length="18478854" type="audio/mpeg"/>
+      <guid isPermaLink="false">verda_13_race_pod_18478854.mp3:18478854</guid>
+      <pubDate>Wed, 17 Jun 2026 22:55:01 -0000</pubDate>
     </item>
     <item>
       <title>Sensofusion 2: Anyone Can Spot a Drone. Few Can Stop One.</title>
@@ -128,10 +137,10 @@
       <title>Verda 2: The Same Chip, a Different Cloud</title>
       <description>Why almost everyone rents AI compute instead of owning it (the cost of a cluster, the depreciation bet on a chip superseded yearly, and the utilization that bursty AI work rarely reaches), the menu of where to get it (hyperscalers, neoclouds, building your own, and the chip choice underneath), and what actually separates the winners. The chip is common, but the speed and reliability a cloud delivers on it are not: on identical GPUs, achieved performance and uptime vary widely, and buyers pay large premiums for the better operators on the same hardware. So an AI cloud is a performance product, not a commodity, and a well-run focused operator can win and keep demanding customers. Where Verda fits, with its real strengths and real limits, and where the market is heading.</description>
       <itunes:episode>2</itunes:episode>
-      <itunes:duration>0:29:05</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_12_market_pod_27925150.mp3" length="27925150" type="audio/mpeg"/>
-      <guid isPermaLink="false">verda_12_market_pod_27925150.mp3:27925150</guid>
-      <pubDate>Tue, 16 Jun 2026 23:29:25 -0000</pubDate>
+      <itunes:duration>0:29:14</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_12_market_pod_28078123.mp3" length="28078123" type="audio/mpeg"/>
+      <guid isPermaLink="false">verda_12_market_pod_28078123.mp3:28078123</guid>
+      <pubDate>Wed, 17 Jun 2026 23:11:35 -0000</pubDate>
     </item>
     <item>
       <title>AI Compute Overview: How the Whole Machine Gets Built</title>
@@ -155,10 +164,10 @@
       <title>Verda 1: Ten Thousand GPUs, One Computer</title>
       <description>What a customer of Verda, a GPU cloud, is actually buying: a single GPU and why a model is too big for one, eight of them wired into one server, thousands wired into one computer across two very different networks, the building that delivers the power and removes the heat, and the software stack that drives all of it — the scheduler, the kernels, the failure-recovery, the serving layer. Then the part that decides the purchase: the levels you can buy at, from a bare machine to a finished model behind an API, who buys each and why; why a training job and an inference job want different hardware; and why two clouds running the identical NVIDIA chips deliver very different speed and reliability, which is what a serious buyer is really choosing between.</description>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:28:49</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_11_machine_pod_27666015.mp3" length="27666015" type="audio/mpeg"/>
-      <guid isPermaLink="false">verda_11_machine_pod_27666015.mp3:27666015</guid>
-      <pubDate>Tue, 16 Jun 2026 23:23:44 -0000</pubDate>
+      <itunes:duration>0:36:43</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_11_machine_pod_35262005.mp3" length="35262005" type="audio/mpeg"/>
+      <guid isPermaLink="false">verda_11_machine_pod_35262005.mp3:35262005</guid>
+      <pubDate>Wed, 17 Jun 2026 23:06:37 -0000</pubDate>
     </item>
   </channel>
 </rss>
