@@ -164,10 +164,10 @@
       <title>Verda 1: Ten Thousand GPUs, One Computer</title>
       <description>What a customer of Verda, a GPU cloud, is actually buying: a single GPU and why a model is too big for one, eight of them wired into one server, thousands wired into one computer across two very different networks, the building that delivers the power and removes the heat, and the software stack that drives all of it — the scheduler, the kernels, the failure-recovery, the serving layer. Then the part that decides the purchase: the levels you can buy at, from a bare machine to a finished model behind an API, who buys each and why; why a training job and an inference job want different hardware; and why two clouds running the identical NVIDIA chips deliver very different speed and reliability, which is what a serious buyer is really choosing between.</description>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:34:49</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_11_machine_pod_33437613.mp3" length="33437613" type="audio/mpeg"/>
-      <guid isPermaLink="false">verda_11_machine_pod_33437613.mp3:33437613</guid>
-      <pubDate>Thu, 18 Jun 2026 22:38:38 -0000</pubDate>
+      <itunes:duration>0:34:46</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_11_machine_pod_33378263.mp3" length="33378263" type="audio/mpeg"/>
+      <guid isPermaLink="false">verda_11_machine_pod_33378263.mp3:33378263</guid>
+      <pubDate>Thu, 18 Jun 2026 22:53:35 -0000</pubDate>
     </item>
   </channel>
 </rss>
