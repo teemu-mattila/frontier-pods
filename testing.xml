@@ -170,13 +170,13 @@
       <pubDate>Thu, 11 Jun 2026 22:20:08 -0000</pubDate>
     </item>
     <item>
-      <title>Counter-UAS, Part 1: Why a Drone Is So Hard to See</title>
-      <description>Bringing down a small drone is a chain of four steps — detect, track, identify, defeat — and the first one is the hardest, because to almost every sensor the drone is nearly invisible. How radio, radar, infrared, and sound each try to find it, what each is good at, and how the threat breaks each one in turn.</description>
+      <title>Counter-UAS, Part 1: Finding the Drone Is the Hard Part</title>
+      <description>On the front line the cheap-drone problem has flipped — the kill is largely solved, and finding the drone is now the bottleneck, because the drones that matter went radio-silent at mass scale. How detection actually works against fiber-optic and autonomous FPVs, why it is being forced onto sound, optics, and machine vision, and how the kill is going the same way: optical, kinetic, and aimed by machine.</description>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:18:54</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_05_primer_pod_18156607.mp3" length="18156607" type="audio/mpeg"/>
-      <guid isPermaLink="false">counter-uas_05_primer_pod_18156607.mp3:18156607</guid>
-      <pubDate>Tue, 23 Jun 2026 08:47:04 -0000</pubDate>
+      <itunes:duration>0:25:22</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_05_primer_pod_24358704.mp3" length="24358704" type="audio/mpeg"/>
+      <guid isPermaLink="false">counter-uas_05_primer_pod_24358704.mp3:24358704</guid>
+      <pubDate>Tue, 23 Jun 2026 11:09:19 -0000</pubDate>
     </item>
   </channel>
 </rss>
