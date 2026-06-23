@@ -116,13 +116,13 @@
       <pubDate>Wed, 17 Jun 2026 22:55:01 -0000</pubDate>
     </item>
     <item>
-      <title>Counter-UAS, Part 3: Where It Goes and Who Holds the Edge</title>
-      <description>The Pacific, where the cost-exchange flips to China's advantage — confirmed by the PLA's own doctrine. The autonomy arms race, and why defending against a swarm is harder than launching one. And the open technical positions: interceptor manufacturing, infrared seekers, and the fiber supply being squeezed by AI-data-center demand.</description>
+      <title>Counter-UAS, Part 3: The Same War, Moved to the Pacific</title>
+      <description>Everything that makes cheap drones win for the defender in Ukraine makes them win for the attacker in the Pacific — and China's own naval doctrine says so. Why distance prices the American drone up a hundredfold, why the magazine you cannot reload at sea matters, where machine-against-machine autonomy is actually heading, and the two narrow places a defensible position still exists.</description>
       <itunes:episode>3</itunes:episode>
-      <itunes:duration>0:14:48</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_07_forward_pod_14212327.mp3" length="14212327" type="audio/mpeg"/>
-      <guid isPermaLink="false">counter-uas_07_forward_pod_14212327.mp3:14212327</guid>
-      <pubDate>Mon, 22 Jun 2026 23:26:27 -0000</pubDate>
+      <itunes:duration>0:19:26</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_07_forward_pod_18661084.mp3" length="18661084" type="audio/mpeg"/>
+      <guid isPermaLink="false">counter-uas_07_forward_pod_18661084.mp3:18661084</guid>
+      <pubDate>Tue, 23 Jun 2026 08:53:33 -0000</pubDate>
     </item>
     <item>
       <title>Sensofusion 2: Anyone Can Spot a Drone. Few Can Stop One.</title>
@@ -152,22 +152,13 @@
       <pubDate>Wed, 17 Jun 2026 23:11:35 -0000</pubDate>
     </item>
     <item>
-      <title>Counter-UAS, Part 2: No Equilibrium, Only a Clock</title>
-      <description>Why no sensor, effector, or piece of software holds a durable edge in counter-drone warfare. The edge is the speed of the build-integrate-retrain loop and the throughput of the fabs behind it — and right now it favors the attacker. With the cheap interceptor drone, the limits of directed energy, and the dependence on Chinese gallium.</description>
+      <title>Counter-UAS, Part 2: The Race With No Finish Line</title>
+      <description>Why counter-drone warfare has no stable answer. Following the real moves in Ukraine and the Red Sea — jamming, frequency-hopping, fiber-optic control, the cheap interceptor that rams — and what they reveal: the side that closes the build-and-relearn loop fastest leads each round, the win is thinner than it looks, and the defender's best sensor and last-resort weapon depend on a material China controls.</description>
       <itunes:episode>2</itunes:episode>
-      <itunes:duration>0:24:16</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_06_thesis_pod_23299595.mp3" length="23299595" type="audio/mpeg"/>
-      <guid isPermaLink="false">counter-uas_06_thesis_pod_23299595.mp3:23299595</guid>
-      <pubDate>Mon, 22 Jun 2026 23:23:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-UAS: No Equilibrium, Only a Clock</title>
-      <description>The full argument in one piece: why no sensor, effector, or piece of software holds a durable edge in counter-drone warfare; the cheap interceptor, directed-energy limits, and the dependence on Chinese gallium; and the Pacific theater, where the cost-exchange changes sign toward China, a reading the PLA's own published doctrine also reaches.</description>
-      <itunes:episode>2</itunes:episode>
-      <itunes:duration>0:37:16</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_08_thesis_forward_pod_35788216.mp3" length="35788216" type="audio/mpeg"/>
-      <guid isPermaLink="false">counter-uas_08_thesis_forward_pod_35788216.mp3:35788216</guid>
-      <pubDate>Tue, 23 Jun 2026 06:38:56 -0000</pubDate>
+      <itunes:duration>0:18:30</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_06_thesis_pod_17769995.mp3" length="17769995" type="audio/mpeg"/>
+      <guid isPermaLink="false">counter-uas_06_thesis_pod_17769995.mp3:17769995</guid>
+      <pubDate>Tue, 23 Jun 2026 08:50:16 -0000</pubDate>
     </item>
     <item>
       <title>AI Compute Overview: How the Whole Machine Gets Built</title>
@@ -179,13 +170,13 @@
       <pubDate>Thu, 11 Jun 2026 22:20:08 -0000</pubDate>
     </item>
     <item>
-      <title>Counter-UAS, Part 1: How a Drone Is Detected and Defeated</title>
-      <description>The counter-drone kill chain — detect, track, identify, defeat — and the sensor or effector at each step: radio detection, radar with micro-Doppler, electro-optical and infrared, acoustic; jamming, guns, interceptor drones, high-power microwave, and lasers. Plus the threat's progression from radio-controlled FPV to fiber-optic and autonomous drones.</description>
+      <title>Counter-UAS, Part 1: Why a Drone Is So Hard to See</title>
+      <description>Bringing down a small drone is a chain of four steps — detect, track, identify, defeat — and the first one is the hardest, because to almost every sensor the drone is nearly invisible. How radio, radar, infrared, and sound each try to find it, what each is good at, and how the threat breaks each one in turn.</description>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:11:49</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_05_primer_pod_11359755.mp3" length="11359755" type="audio/mpeg"/>
-      <guid isPermaLink="false">counter-uas_05_primer_pod_11359755.mp3:11359755</guid>
-      <pubDate>Mon, 22 Jun 2026 23:19:48 -0000</pubDate>
+      <itunes:duration>0:18:54</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_05_primer_pod_18156607.mp3" length="18156607" type="audio/mpeg"/>
+      <guid isPermaLink="false">counter-uas_05_primer_pod_18156607.mp3:18156607</guid>
+      <pubDate>Tue, 23 Jun 2026 08:47:04 -0000</pubDate>
     </item>
   </channel>
 </rss>
