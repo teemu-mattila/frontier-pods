@@ -116,6 +116,15 @@
       <pubDate>Wed, 17 Jun 2026 22:55:01 -0000</pubDate>
     </item>
     <item>
+      <title>Counter-UAS, Part 3: Where It Goes and Who Holds the Edge</title>
+      <description>The Pacific, where the cost-exchange flips to China's advantage — confirmed by the PLA's own doctrine. The autonomy arms race, and why defending against a swarm is harder than launching one. And the open technical positions: interceptor manufacturing, infrared seekers, and the fiber supply being squeezed by AI-data-center demand.</description>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>0:14:48</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_07_forward_pod_14212327.mp3" length="14212327" type="audio/mpeg"/>
+      <guid isPermaLink="false">counter-uas_07_forward_pod_14212327.mp3:14212327</guid>
+      <pubDate>Mon, 22 Jun 2026 23:26:27 -0000</pubDate>
+    </item>
+    <item>
       <title>Sensofusion 2: Anyone Can Spot a Drone. Few Can Stop One.</title>
       <description>Why counter-drone defense is mission-critical, the full menu of ways to stop a drone (radio, radar, cameras, sound, jamming, takeover, guns, interceptor drones, and high-power microwave), and where the durable value actually sits. A capability-and-architecture view of the field Sensofusion competes in, with a committed view of where the threat and the defense are headed.</description>
       <itunes:episode>2</itunes:episode>
@@ -143,6 +152,15 @@
       <pubDate>Wed, 17 Jun 2026 23:11:35 -0000</pubDate>
     </item>
     <item>
+      <title>Counter-UAS, Part 2: No Equilibrium, Only a Clock</title>
+      <description>Why no sensor, effector, or piece of software holds a durable edge in counter-drone warfare. The edge is the speed of the build-integrate-retrain loop and the throughput of the fabs behind it — and right now it favors the attacker. With the cheap interceptor drone, the limits of directed energy, and the dependence on Chinese gallium.</description>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>0:24:16</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_06_thesis_pod_23299595.mp3" length="23299595" type="audio/mpeg"/>
+      <guid isPermaLink="false">counter-uas_06_thesis_pod_23299595.mp3:23299595</guid>
+      <pubDate>Mon, 22 Jun 2026 23:23:57 -0000</pubDate>
+    </item>
+    <item>
       <title>AI Compute Overview: How the Whole Machine Gets Built</title>
       <description>The supply chain behind one AI query: an $8 million rack in northern Virginia, wafers from TSMC, lithography machines from ASML (about sixty a year, for the whole planet), stacked memory from SK Hynix, and electricity bought three years ahead. How each piece works, why the bottleneck keeps moving from one step to another, and where the money pools. First of two episodes on AI compute.</description>
       <itunes:episode>1</itunes:episode>
@@ -151,5 +169,14 @@
       <guid isPermaLink="false">ai-compute-clouds_05_podcast_32356771.mp3:32356771</guid>
       <pubDate>Thu, 11 Jun 2026 22:20:08 -0000</pubDate>
     </item>
-          </channel>
+    <item>
+      <title>Counter-UAS, Part 1: How a Drone Is Detected and Defeated</title>
+      <description>The counter-drone kill chain — detect, track, identify, defeat — and the sensor or effector at each step: radio detection, radar with micro-Doppler, electro-optical and infrared, acoustic; jamming, guns, interceptor drones, high-power microwave, and lasers. Plus the threat's progression from radio-controlled FPV to fiber-optic and autonomous drones.</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:11:49</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_05_primer_pod_11359755.mp3" length="11359755" type="audio/mpeg"/>
+      <guid isPermaLink="false">counter-uas_05_primer_pod_11359755.mp3:11359755</guid>
+      <pubDate>Mon, 22 Jun 2026 23:19:48 -0000</pubDate>
+    </item>
+  </channel>
 </rss>
