@@ -171,12 +171,12 @@
     </item>
     <item>
       <title>Counter-UAS, Part 1: The Find Is the Hard Part Now</title>
-      <description>Where drone defense actually stands in 2026: the kill is a solved, cheap commodity, and finding the drone is the unsolved problem the budgets are chasing — to the point of cash bounties to detect a fiber drone at three hundred meters. What the silent drone still gives away, where that signal went, why the answers the headlines reach for aren't the ones the front line runs on, and how finding and killing are collapsing into one machine that refuses to play the signature game.</description>
+      <description>Where drone defense actually stands on the Ukraine front line in 2026: killing a small drone is now the cheap, solved part, and finding it is the unsolved one, because the drones doing the damage have gone radio-silent — onto fiber and onto their own vision. What a silent drone still gives away, how detection is being forced onto sound, light, and machine vision, and how the kill is following it onto machines that find and fire by looking.</description>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:21:14</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_05_primer_pod_20388510.mp3" length="20388510" type="audio/mpeg"/>
-      <guid isPermaLink="false">counter-uas_05_primer_pod_20388510.mp3:20388510</guid>
-      <pubDate>Wed, 24 Jun 2026 09:28:14 -0000</pubDate>
+      <itunes:duration>0:20:40</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_05_primer_pod_19848924.mp3" length="19848924" type="audio/mpeg"/>
+      <guid isPermaLink="false">counter-uas_05_primer_pod_19848924.mp3:19848924</guid>
+      <pubDate>Wed, 24 Jun 2026 09:49:06 -0000</pubDate>
     </item>
   </channel>
 </rss>
