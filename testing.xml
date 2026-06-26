@@ -171,12 +171,12 @@
     </item>
     <item>
       <title>Counter-UAS, Part 1: Finding the Drone Is the Hard Part Now</title>
-      <description>Where front-line drone defense actually stands in 2026. Against the small fiber-optic and machine-vision FPVs doing most of the killing, the front faces two walls at once — locating drones that have gone radio-silent, off a detection stack built entirely around hearing them, and fielding enough cheap shooters to service the sheer numbers. How the find is forced onto sound, light, and the spinning rotor; how the cheap kill keeps up but is not "solved"; who is hunting the drone operators; and a fair read on directed energy — where the laser has genuinely arrived and where it has not.</description>
+      <description>Where front-line drone defense actually stands in 2026. Two problems bind the close fight against small FPVs: finding drones that have gone radio-silent, off a detection stack built to hear them, and fielding enough cheap shooters for the volume. How fiber-optic and machine-vision drones went silent; how detection is forced onto sound, light, and the spinning rotor; how the cheap kill keeps up and where it runs out; who hunts the drone operators; and a worked read on directed energy — how a laser actually kills a drone, how fast, and where it has and hasn't arrived.</description>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:27:43</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_05_primer_pod_26618191.mp3" length="26618191" type="audio/mpeg"/>
-      <guid isPermaLink="false">counter-uas_05_primer_pod_26618191.mp3:26618191</guid>
-      <pubDate>Fri, 26 Jun 2026 11:39:52 -0000</pubDate>
+      <itunes:duration>0:21:08</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_05_primer_pod_20302410.mp3" length="20302410" type="audio/mpeg"/>
+      <guid isPermaLink="false">counter-uas_05_primer_pod_20302410.mp3:20302410</guid>
+      <pubDate>Fri, 26 Jun 2026 16:07:25 -0000</pubDate>
     </item>
   </channel>
 </rss>
