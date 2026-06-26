@@ -171,12 +171,12 @@
     </item>
     <item>
       <title>Counter-UAS, Part 1: Finding the Drone Is the Hard Part Now</title>
-      <description>Where front-line drone defense actually stands in 2026. Against the small fiber-optic and machine-vision FPVs doing most of the killing, the front faces two walls at once — locating drones that have gone radio-silent, off a detection stack built entirely around hearing them, and fielding enough cheap shooters to service the sheer numbers. What a silent drone still gives away, how the find is being forced onto sound, light, and the spinning rotor, why the cheap kill keeps up but is not "solved," who is hunting the drone operators, and why the two fixes reached for from outside the war — a directed-energy death ray and an AI that fuses every sensor into one picture — are not what the line runs on.</description>
+      <description>Where front-line drone defense actually stands in 2026. Against the small fiber-optic and machine-vision FPVs doing most of the killing, the front faces two walls at once — locating drones that have gone radio-silent, off a detection stack built entirely around hearing them, and fielding enough cheap shooters to service the sheer numbers. How the find is forced onto sound, light, and the spinning rotor; how the cheap kill keeps up but is not "solved"; who is hunting the drone operators; and a fair read on directed energy — where the laser has genuinely arrived and where it has not.</description>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:27:29</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_05_primer_pod_26385806.mp3" length="26385806" type="audio/mpeg"/>
-      <guid isPermaLink="false">counter-uas_05_primer_pod_26385806.mp3:26385806</guid>
-      <pubDate>Fri, 26 Jun 2026 07:33:24 -0000</pubDate>
+      <itunes:duration>0:27:43</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_05_primer_pod_26618191.mp3" length="26618191" type="audio/mpeg"/>
+      <guid isPermaLink="false">counter-uas_05_primer_pod_26618191.mp3:26618191</guid>
+      <pubDate>Fri, 26 Jun 2026 11:39:52 -0000</pubDate>
     </item>
   </channel>
 </rss>
