@@ -25,7 +25,16 @@
       <guid isPermaLink="false">sensofusion_11_machine_pod_20702815.mp3:20702815</guid>
       <pubDate>Wed, 17 Jun 2026 21:15:03 -0000</pubDate>
     </item>
-<item>
+    <item>
+      <title>ICEYE 1: Too Small to Work, and It Works Anyway</title>
+      <description>An ICEYE satellite weighs about eighty-five kilograms, makes its own microwave illumination, and draws pictures of the ground through cloud and darkness. This episode follows the radar end to end: why spaceborne radar was historically the size of a truck, the one clause in the physics that lets a satellite go small, the two separate sharpnesses of a radar image, what a twenty-five-second stare actually buys, and where the small antenna goes blind, including why it cannot track a moving target.</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:32:15</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/iceye_11_machine_pod_30960369.mp3" length="30960369" type="audio/mpeg"/>
+      <guid isPermaLink="false">iceye_11_machine_pod_30960369.mp3:30960369</guid>
+      <pubDate>Tue, 16 Jun 2026 23:35:46 -0000</pubDate>
+    </item>
+    <item>
       <title>Verda 1: Ten Thousand GPUs, One Computer</title>
       <description>What a customer of Verda, a GPU cloud, is actually buying: a single GPU and why a model is too big for one, eight of them wired into one server, thousands wired into one computer across two very different networks, the building that delivers the power and removes the heat, and the software stack that drives all of it — the scheduler, the kernels, the failure-recovery, the serving layer. Then the part that decides the purchase: the levels you can buy at, from a bare machine to a finished model behind an API, who buys each and why; why a training job and an inference job want different hardware; and why two clouds running the identical NVIDIA chips deliver very different speed and reliability, which is what a serious buyer is really choosing between.</description>
       <itunes:episode>1</itunes:episode>
@@ -34,14 +43,14 @@
       <guid isPermaLink="false">verda_11_machine_pod_33378263.mp3:33378263</guid>
       <pubDate>Thu, 18 Jun 2026 22:53:35 -0000</pubDate>
     </item>
-<item>
-      <title>ICEYE 1: Too Small to Work, and It Works Anyway</title>
-      <description>An ICEYE satellite weighs about eighty-five kilograms, makes its own microwave illumination, and draws pictures of the ground through cloud and darkness. This episode follows the radar end to end: why spaceborne radar was historically the size of a truck, the one clause in the physics that lets a satellite go small, the two separate sharpnesses of a radar image, what a twenty-five-second stare actually buys, and where the small antenna goes blind, including why it cannot track a moving target.</description>
+    <item>
+      <title>Counter-UAS, Part 1: Finding the Drone Is the Hard Part Now</title>
+      <description>A ground-up primer on where front-line drone defense actually stands in 2026. What an FPV drone is and how it's flown; how fiber-optic and machine-vision drones went radio-silent and broke the cheap way of detecting them; what radar cross-section means and why a small drone is invisible to radar; how detection is forced onto the rotor's sound and light; how cheap interceptors, guns, and nets kill — and where they run out; how a laser and a high-power microwave actually destroy a drone; and the three problems the front still has no answer for.</description>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:32:15</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/iceye_11_machine_pod_30960369.mp3" length="30960369" type="audio/mpeg"/>
-      <guid isPermaLink="false">iceye_11_machine_pod_30960369.mp3:30960369</guid>
-      <pubDate>Tue, 16 Jun 2026 23:35:46 -0000</pubDate>
+      <itunes:duration>0:27:59</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_05_primer_pod_26873982.mp3" length="26873982" type="audio/mpeg"/>
+      <guid isPermaLink="false">counter-uas_05_primer_pod_26873982.mp3:26873982</guid>
+      <pubDate>Sat, 27 Jun 2026 14:20:53 -0000</pubDate>
     </item>
   </channel>
 </rss>
