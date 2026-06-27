@@ -152,13 +152,13 @@
       <pubDate>Wed, 17 Jun 2026 23:11:35 -0000</pubDate>
     </item>
     <item>
-      <title>Counter-UAS, Part 2: The Race With No Finish Line</title>
-      <description>Why counter-drone warfare has no stable answer. Following the real moves in Ukraine and the Red Sea — jamming, frequency-hopping, fiber-optic control, the cheap interceptor that rams — and what they reveal: the side that closes the build-and-relearn loop fastest leads each round, the win is thinner than it looks, and the defender's best sensor and last-resort weapon depend on a material China controls.</description>
+      <title>Counter-UAS, Part 2: Why Every Drone Weapon Expires in Weeks</title>
+      <description>The counter-drone fight has no stable winner — every jammer, drone, and interceptor works for weeks to months before the other side adapts around it, so the thing that decides who is ahead is not a weapon but the speed of the loop that replaces it. How one turn of that loop works and who runs it on each side; how cheap interceptors just inverted the Shahed cost-exchange for the first time while fiber drones routed around jamming at the front; why data doesn't decide it and component supply does; and the one material — gallium — that sits under both the best radar and the microwave gun.</description>
       <itunes:episode>2</itunes:episode>
-      <itunes:duration>0:18:30</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_06_thesis_pod_17769995.mp3" length="17769995" type="audio/mpeg"/>
-      <guid isPermaLink="false">counter-uas_06_thesis_pod_17769995.mp3:17769995</guid>
-      <pubDate>Tue, 23 Jun 2026 08:50:16 -0000</pubDate>
+      <itunes:duration>0:13:17</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_06_thesis_pod_12764934.mp3" length="12764934" type="audio/mpeg"/>
+      <guid isPermaLink="false">counter-uas_06_thesis_pod_12764934.mp3:12764934</guid>
+      <pubDate>Sat, 27 Jun 2026 15:02:59 -0000</pubDate>
     </item>
     <item>
       <title>AI Compute Overview: How the Whole Machine Gets Built</title>
