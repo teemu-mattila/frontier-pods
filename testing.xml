@@ -171,12 +171,12 @@
     </item>
     <item>
       <title>Counter-UAS, Part 1: Finding the Drone Is the Hard Part Now</title>
-      <description>Where front-line drone defense actually stands in 2026. Two problems bind the close fight against small FPVs: finding drones that have gone radio-silent, off a detection stack built to hear them, and fielding enough cheap shooters for the volume. How fiber-optic and machine-vision drones went silent; how detection is forced onto sound, light, and the spinning rotor; how the cheap kill keeps up and where it runs out; who hunts the drone operators; and a worked read on directed energy — how a laser actually kills a drone, how fast, and where it has and hasn't arrived.</description>
+      <description>A ground-up primer on where front-line drone defense actually stands in 2026. What an FPV drone is and how it's flown; how fiber-optic and machine-vision drones went radio-silent and broke the cheap way of detecting them; what radar cross-section means and why a small drone is invisible to radar; how detection is forced onto the rotor's sound and light; how cheap interceptors, guns, and nets kill — and where they run out; how a laser and a high-power microwave actually destroy a drone; and the three problems the front still has no answer for.</description>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:21:08</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_05_primer_pod_20302410.mp3" length="20302410" type="audio/mpeg"/>
-      <guid isPermaLink="false">counter-uas_05_primer_pod_20302410.mp3:20302410</guid>
-      <pubDate>Fri, 26 Jun 2026 16:07:25 -0000</pubDate>
+      <itunes:duration>0:27:57</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_05_primer_pod_26835948.mp3" length="26835948" type="audio/mpeg"/>
+      <guid isPermaLink="false">counter-uas_05_primer_pod_26835948.mp3:26835948</guid>
+      <pubDate>Sat, 27 Jun 2026 11:47:46 -0000</pubDate>
     </item>
   </channel>
 </rss>
