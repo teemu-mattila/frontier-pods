@@ -173,10 +173,10 @@
       <title>Counter-UAS, Part 1: Finding the Drone Is the Hard Part Now</title>
       <description>A ground-up primer on where front-line drone defense actually stands in 2026. What an FPV drone is and how it's flown; how fiber-optic and machine-vision drones went radio-silent and broke the cheap way of detecting them; what radar cross-section means and why a small drone is invisible to radar; how detection is forced onto the rotor's sound and light; how cheap interceptors, guns, and nets kill — and where they run out; how a laser and a high-power microwave actually destroy a drone; and the three problems the front still has no answer for.</description>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:27:57</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_05_primer_pod_26835948.mp3" length="26835948" type="audio/mpeg"/>
-      <guid isPermaLink="false">counter-uas_05_primer_pod_26835948.mp3:26835948</guid>
-      <pubDate>Sat, 27 Jun 2026 11:47:46 -0000</pubDate>
+      <itunes:duration>0:27:59</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_05_primer_pod_26873982.mp3" length="26873982" type="audio/mpeg"/>
+      <guid isPermaLink="false">counter-uas_05_primer_pod_26873982.mp3:26873982</guid>
+      <pubDate>Sat, 27 Jun 2026 14:20:53 -0000</pubDate>
     </item>
   </channel>
 </rss>
