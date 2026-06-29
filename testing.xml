@@ -17,6 +17,14 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_drafts.png"/>
     <item>
+      <title>AI Compute Demand 1: The Bet — Why a Trillion Dollars Isn't Proof of Demand</title>
+      <description>Before any of the argument about AI makes sense, you have to see one thing clearly: the enormous spending on AI data centers is not demand. It is a bet on demand, placed a year or two early — concrete poured and chips ordered now for what the builders guess people will want when the building finally switches on. This episode separates the bet from the thing being bet on, shows what real demand actually is, and ends on the single question the whole series turns on: what would make that demand keep growing? Episode one of a series on what really governs AI compute demand — the foundation everything else rests on.</description>
+      <itunes:duration>0:09:07</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-demand_ep01_podcast_bet_8756287.mp3" length="8756287" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-compute-demand_ep01_podcast_bet_8756287.mp3:8756287</guid>
+      <pubDate>Sun, 28 Jun 2026 21:50:43 -0000</pubDate>
+    </item>
+    <item>
       <title>AI Compute 12: The Build-Out Is a Bet on Reinforcement Learning</title>
       <description>The AI build-out, hundreds of billions of dollars of chips, buildings, and power, rests on demand continuing to grow, and most of that demand is the frontier labs consuming their own compute to train the next model. Whether they keep doing it depends on one measurable thing: how much capability another dollar of reinforcement-learning compute still buys. This episode makes the case that this single quantity, not chips or power or networking, decides whether the build-out is sound infrastructure or stranded assets, using the ScaleRL results, Epoch's compute figures, the CoreWeave and Oracle financings, and what would prove the argument wrong. The finale of the AI-compute series.</description>
       <itunes:episode>12</itunes:episode>
