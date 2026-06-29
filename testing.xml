@@ -17,14 +17,6 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_drafts.png"/>
     <item>
-      <title>AI Compute Demand 1: The Bet — Why a Trillion Dollars Isn't Proof of Demand</title>
-      <description>Before any of the argument about AI makes sense, you have to see one thing clearly: the enormous spending on AI data centers is not demand. It is a bet on demand, placed a year or two early — concrete poured and chips ordered now for what the builders guess people will want when the building finally switches on. This episode separates the bet from the thing being bet on, shows what real demand actually is, and ends on the single question the whole series turns on: what would make that demand keep growing? Episode one of a series on what really governs AI compute demand — the foundation everything else rests on.</description>
-      <itunes:duration>0:09:07</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-demand_ep01_podcast_bet_8756287.mp3" length="8756287" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-compute-demand_ep01_podcast_bet_8756287.mp3:8756287</guid>
-      <pubDate>Sun, 28 Jun 2026 21:50:43 -0000</pubDate>
-    </item>
-    <item>
       <title>AI Compute 12: The Build-Out Is a Bet on Reinforcement Learning</title>
       <description>The AI build-out, hundreds of billions of dollars of chips, buildings, and power, rests on demand continuing to grow, and most of that demand is the frontier labs consuming their own compute to train the next model. Whether they keep doing it depends on one measurable thing: how much capability another dollar of reinforcement-learning compute still buys. This episode makes the case that this single quantity, not chips or power or networking, decides whether the build-out is sound infrastructure or stranded assets, using the ScaleRL results, Epoch's compute figures, the CoreWeave and Oracle financings, and what would prove the argument wrong. The finale of the AI-compute series.</description>
       <itunes:episode>12</itunes:episode>
@@ -124,15 +116,6 @@
       <pubDate>Wed, 17 Jun 2026 22:55:01 -0000</pubDate>
     </item>
     <item>
-      <title>Counter-UAS, Part 3: The Same War, Moved to the Pacific</title>
-      <description>Everything that makes cheap drones win for the defender in Ukraine makes them win for the attacker in the Pacific — and China's own naval doctrine says so. Why distance prices the American drone up a hundredfold, why the magazine you cannot reload at sea matters, where machine-against-machine autonomy is actually heading, and the two narrow places a defensible position still exists.</description>
-      <itunes:episode>3</itunes:episode>
-      <itunes:duration>0:19:26</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_07_forward_pod_18661084.mp3" length="18661084" type="audio/mpeg"/>
-      <guid isPermaLink="false">counter-uas_07_forward_pod_18661084.mp3:18661084</guid>
-      <pubDate>Tue, 23 Jun 2026 08:53:33 -0000</pubDate>
-    </item>
-    <item>
       <title>Sensofusion 2: Anyone Can Spot a Drone. Few Can Stop One.</title>
       <description>Why counter-drone defense is mission-critical, the full menu of ways to stop a drone (radio, radar, cameras, sound, jamming, takeover, guns, interceptor drones, and high-power microwave), and where the durable value actually sits. A capability-and-architecture view of the field Sensofusion competes in, with a committed view of where the threat and the defense are headed.</description>
       <itunes:episode>2</itunes:episode>
@@ -160,13 +143,13 @@
       <pubDate>Wed, 17 Jun 2026 23:11:35 -0000</pubDate>
     </item>
     <item>
-      <title>Counter-UAS, Part 2: Why Every Drone Weapon Expires in Weeks</title>
-      <description>The counter-drone fight has no stable winner — every jammer, drone, and interceptor works for weeks to months before the other side adapts around it, so the thing that decides who is ahead is not a weapon but the speed of the loop that replaces it. How one turn of that loop works and who runs it on each side; the cost-exchange math that governs the whole war, and how cheap interceptors just flipped it in the defender's favor for the first time; why more data and better AI don't decide it; and the components — fiber, sensors, and the gallium under both the radar and the microwave gun — that one country supplies to both sides.</description>
+      <title>Counter-UAS, Part 2: The Human Leaves the Loop</title>
+      <description>Where the front-line drone war is heading. The strike drone already flies its last stretch blind, with no link to jam, and the next rung is the operator dropping out of the decision entirely — so the defense can only keep pace by going autonomous and machine-speed too. Why there is no silver-bullet sensor or beam to escape this (the physics of radar and lasers won't allow it), so the moves that matter change the architecture instead: attack what a drone cannot shed — its electronics and its spinning rotor — fly the weapon forward, and let machines fight machines. And the one problem that decides it: coordinating a defending swarm against an attacking one, demonstrated today at five against a threat that arrives in the hundreds.</description>
       <itunes:episode>2</itunes:episode>
-      <itunes:duration>0:19:44</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_06_thesis_pod_18945714.mp3" length="18945714" type="audio/mpeg"/>
-      <guid isPermaLink="false">counter-uas_06_thesis_pod_18945714.mp3:18945714</guid>
-      <pubDate>Sun, 28 Jun 2026 19:20:38 -0000</pubDate>
+      <itunes:duration>0:12:16</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/counter-uas_06_future_pod_11785656.mp3" length="11785656" type="audio/mpeg"/>
+      <guid isPermaLink="false">counter-uas_06_future_pod_11785656.mp3:11785656</guid>
+      <pubDate>Mon, 29 Jun 2026 10:15:29 -0000</pubDate>
     </item>
     <item>
       <title>AI Compute Overview: How the Whole Machine Gets Built</title>
@@ -176,6 +159,15 @@
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_05_podcast_32356771.mp3" length="32356771" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-compute-clouds_05_podcast_32356771.mp3:32356771</guid>
       <pubDate>Thu, 11 Jun 2026 22:20:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>AI Compute Demand 1: The Bet — Why a Trillion Dollars Isn't Proof of Demand</title>
+      <description>Before any of the argument about AI makes sense, you have to see one thing clearly: the enormous spending on AI data centers is not demand. It is a bet on demand, placed a year or two early — concrete poured and chips ordered now for what the builders guess people will want when the building finally switches on. This episode separates the bet from the thing being bet on, shows what real demand actually is, and ends on the single question the whole series turns on: what would make that demand keep growing? Episode one of a series on what really governs AI compute demand — the foundation everything else rests on.</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:09:07</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-demand_ep01_podcast_bet_8756287.mp3" length="8756287" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-compute-demand_ep01_podcast_bet_8756287.mp3:8756287</guid>
+      <pubDate>Sun, 28 Jun 2026 21:50:43 -0000</pubDate>
     </item>
   </channel>
 </rss>
