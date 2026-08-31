@@ -17,6 +17,14 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_drafts.png"/>
     <item>
+      <title>AI Infrastructure 6: The Six Ways Compute Is Sold</title>
+      <description>The same GPU is for sale six ways at once: by the server-month, the GPU-hour, the GPU-hour plus a fee, the GPU-second, the replica, and the million tokens. This episode walks the six products and what each one actually transfers, the contract menu on top of them — on-demand, reserved at thirty to sixty percent off, spot at fifty to eighty — and the checklist for reading any provider's page. It closes with three worked purchases: a three-engineer startup, a regulated European enterprise, and a mid-size lab planning reinforcement learning.</description>
+      <itunes:duration>0:27:14</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep06_podcast_products_26150077.mp3" length="26150077" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-infra_ep06_podcast_products_26150077.mp3:26150077</guid>
+      <pubDate>Mon, 31 Aug 2026 18:20:44 -0000</pubDate>
+    </item>
+    <item>
       <title>AI Infrastructure 5: Clusters — Splitting Models, Networks, and Surviving Failure</title>
       <description>Meta's published Llama 3 run logged 419 unexpected interruptions in 54 days on 16,384 H100 GPUs, one every three hours, and finished anyway. This episode covers the training loop and its sixteen-bytes-per-parameter memory bill, the four ways a model is split across GPUs, RDMA networking, checkpoint engineering, stragglers, and silent data corruption. Two providers with identical hardware routinely deliver 30 to 50 percent different price-performance; operations are the moat.</description>
       <itunes:duration>0:28:43</itunes:duration>
