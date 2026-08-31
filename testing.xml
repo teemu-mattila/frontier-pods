@@ -17,6 +17,14 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_drafts.png"/>
     <item>
+      <title>AI Infrastructure 7: What a GPU-Hour Really Costs</title>
+      <description>An eight-GPU H200 server costs about two hundred eighty thousand dollars at volume. This episode builds its hourly cost line by line — depreciation, electricity, facilities, financing, and the utilization divisor — and lands two providers at a dollar forty and three dollars forty-five per hour on identical chips. It covers the 2026 rate squeeze that ran the famous price decay backwards, the depreciation bet, NVIDIA's take-or-pay backstops, and a five-hundred-million-dollar GPU cloud plan scored line by line.</description>
+      <itunes:duration>0:27:24</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep07_podcast_gpu_hour_26313499.mp3" length="26313499" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-infra_ep07_podcast_gpu_hour_26313499.mp3:26313499</guid>
+      <pubDate>Mon, 31 Aug 2026 18:24:54 -0000</pubDate>
+    </item>
+    <item>
       <title>AI Infrastructure 6: The Six Ways Compute Is Sold</title>
       <description>The same GPU is for sale six ways at once: by the server-month, the GPU-hour, the GPU-hour plus a fee, the GPU-second, the replica, and the million tokens. This episode walks the six products and what each one actually transfers, the contract menu on top of them — on-demand, reserved at thirty to sixty percent off, spot at fifty to eighty — and the checklist for reading any provider's page. It closes with three worked purchases: a three-engineer startup, a regulated European enterprise, and a mid-size lab planning reinforcement learning.</description>
       <itunes:duration>0:27:14</itunes:duration>
