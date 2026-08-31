@@ -17,6 +17,14 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_drafts.png"/>
     <item>
+      <title>AI Infrastructure 2: Prefill, Decode, and Why Memory Bandwidth Sets the Speed</title>
+      <description>A GPU generating text for one user performs about two percent of its rated arithmetic, because every parameter must stream from memory for every token. This episode separates inference into its two opposite phases — parallel, compute-bound prefill and sequential, memory-bound decode — and derives generation speed from one division: bandwidth over bytes per token. It covers why quantization is a speed technology, why the H200 outsells the H100 for inference on identical compute, training's sixteen-bytes-per-parameter memory bill, LoRA, and the coding-agent workload profile.</description>
+      <itunes:duration>0:28:23</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep02_podcast_computation_27261012.mp3" length="27261012" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-infra_ep02_podcast_computation_27261012.mp3:27261012</guid>
+      <pubDate>Mon, 31 Aug 2026 18:03:28 -0000</pubDate>
+    </item>
+    <item>
       <title>AI Infrastructure 1: What a Frontier Model Physically Is</title>
       <description>A trillion-parameter model is about one terabyte of numbers in a downloadable file. This episode reads that file: parameters and the formats they are stored in, tokens as the unit of work, attention and the KV cache priced in gigabytes per user, Mixture of Experts, and the lifecycle from pre-training through licenses. It closes by reading Moonshot AI's Kimi K2 model card end to end.</description>
       <itunes:duration>0:28:24</itunes:duration>
