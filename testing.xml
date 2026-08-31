@@ -17,6 +17,14 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_drafts.png"/>
     <item>
+      <title>AI Infrastructure 9: The Value Chain — Where the Money Pools</title>
+      <description>NVIDIA books eighty-nine billion dollars of data-center revenue in a quarter at roughly seventy-five percent gross margin, while its largest customers sign hundred-billion-dollar offtakes and custom-silicon programs to exit that market. This episode walks all seven links of the AI value chain as real businesses with real margins, explains the single mechanism that decides who keeps any efficiency gain, and states the two-condition bet the entire buildout rests on. The series finale.</description>
+      <itunes:duration>0:28:17</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep09_podcast_value_chain_27167390.mp3" length="27167390" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-infra_ep09_podcast_value_chain_27167390.mp3:27167390</guid>
+      <pubDate>Mon, 31 Aug 2026 18:33:28 -0000</pubDate>
+    </item>
+    <item>
       <title>AI Infrastructure 8: Token Prices and Who Keeps the Efficiency Gains</title>
       <description>One H200 at three dollars an hour produces tokens at five dollars per million for an enterprise self-hoster, forty-three cents for a mid-size provider, and thirty-three cents for a top-tier one — same hardware, same free software. This episode covers what sets prices in AI infrastructure and who keeps the gains when serving gets cheaper: the open-source stack that sets the price floor, DeepSeek's August 2026 repricing that moved the floor up, the scarcity premium on new silicon, the compliance premium that deletes competitors from the buyer's menu, and the ranking of switching costs that provider roadmaps climb.</description>
       <itunes:duration>0:27:43</itunes:duration>
