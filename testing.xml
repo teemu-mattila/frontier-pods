@@ -17,6 +17,14 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_drafts.png"/>
     <item>
+      <title>AI Infrastructure 1: What a Frontier Model Physically Is</title>
+      <description>A trillion-parameter model is about one terabyte of numbers in a downloadable file. This episode reads that file: parameters and the formats they are stored in, tokens as the unit of work, attention and the KV cache priced in gigabytes per user, Mixture of Experts, and the lifecycle from pre-training through licenses. It closes by reading Moonshot AI's Kimi K2 model card end to end.</description>
+      <itunes:duration>0:28:24</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep01_podcast_artifact_27277313.mp3" length="27277313" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-infra_ep01_podcast_artifact_27277313.mp3:27277313</guid>
+      <pubDate>Mon, 31 Aug 2026 17:59:12 -0000</pubDate>
+    </item>
+    <item>
       <title>AI Compute 12: The Build-Out Is a Bet on Reinforcement Learning</title>
       <description>The AI build-out, hundreds of billions of dollars of chips, buildings, and power, rests on demand continuing to grow, and most of that demand is the frontier labs consuming their own compute to train the next model. Whether they keep doing it depends on one measurable thing: how much capability another dollar of reinforcement-learning compute still buys. This episode makes the case that this single quantity, not chips or power or networking, decides whether the build-out is sound infrastructure or stranded assets, using the ScaleRL results, Epoch's compute figures, the CoreWeave and Oracle financings, and what would prove the argument wrong. The finale of the AI-compute series.</description>
       <itunes:episode>12</itunes:episode>
