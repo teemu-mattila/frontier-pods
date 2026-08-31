@@ -17,6 +17,14 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_drafts.png"/>
     <item>
+      <title>AI Infrastructure 5: Clusters — Splitting Models, Networks, and Surviving Failure</title>
+      <description>Meta's published Llama 3 run logged 419 unexpected interruptions in 54 days on 16,384 H100 GPUs, one every three hours, and finished anyway. This episode covers the training loop and its sixteen-bytes-per-parameter memory bill, the four ways a model is split across GPUs, RDMA networking, checkpoint engineering, stragglers, and silent data corruption. Two providers with identical hardware routinely deliver 30 to 50 percent different price-performance; operations are the moat.</description>
+      <itunes:duration>0:28:43</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep05_podcast_clusters_27576154.mp3" length="27576154" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-infra_ep05_podcast_clusters_27576154.mp3:27576154</guid>
+      <pubDate>Mon, 31 Aug 2026 18:16:35 -0000</pubDate>
+    </item>
+    <item>
       <title>AI Infrastructure 4: The Serving Stack — How Tokens Got a Hundred Times Cheaper</title>
       <description>A seventy-two-billion-parameter model on two rented H200s makes tokens at about thirty-seven dollars per million. The same model on the same hardware, quantized, batched, paged, and cached, makes them for about twenty-five cents. This episode walks the cost down mechanism by mechanism: FP8 and four-bit quantization, batching and its three ceilings, continuous batching and PagedAttention, prefix caching, speculative decoding, and the disaggregated fleet behind DeepSeek's peak and off-peak rate card.</description>
       <itunes:duration>0:29:05</itunes:duration>
