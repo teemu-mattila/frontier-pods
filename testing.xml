@@ -17,6 +17,14 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_drafts.png"/>
     <item>
+      <title>AI Infrastructure 4: The Serving Stack — How Tokens Got a Hundred Times Cheaper</title>
+      <description>A seventy-two-billion-parameter model on two rented H200s makes tokens at about thirty-seven dollars per million. The same model on the same hardware, quantized, batched, paged, and cached, makes them for about twenty-five cents. This episode walks the cost down mechanism by mechanism: FP8 and four-bit quantization, batching and its three ceilings, continuous batching and PagedAttention, prefix caching, speculative decoding, and the disaggregated fleet behind DeepSeek's peak and off-peak rate card.</description>
+      <itunes:duration>0:29:05</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep04_podcast_serving_27935598.mp3" length="27935598" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-infra_ep04_podcast_serving_27935598.mp3:27935598</guid>
+      <pubDate>Mon, 31 Aug 2026 18:12:12 -0000</pubDate>
+    </item>
+    <item>
       <title>AI Infrastructure 3: GPUs, HBM, and NVLink</title>
       <description>A flagship GPU's memory is built as towers of dies stacked up to twelve high on the processor's own package, made by only three companies and plausibly accounting for a third or more of the chip's build cost. This episode walks the memory tiers from fifty megabytes of on-chip SRAM to the rack-scale NVLink domain, decodes NVIDIA's product line from the A100 to Rubin by what each generation actually changed, and covers the AMD, Groq, Cerebras, and custom-silicon bets, out to the gigawatt sites that power all of it. It closes on a worked example of why counting FLOPS picks the wrong machine.</description>
       <itunes:duration>0:28:38</itunes:duration>
