@@ -17,6 +17,14 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_drafts.png"/>
     <item>
+      <title>AI Infrastructure 8: Token Prices and Who Keeps the Efficiency Gains</title>
+      <description>One H200 at three dollars an hour produces tokens at five dollars per million for an enterprise self-hoster, forty-three cents for a mid-size provider, and thirty-three cents for a top-tier one — same hardware, same free software. This episode covers what sets prices in AI infrastructure and who keeps the gains when serving gets cheaper: the open-source stack that sets the price floor, DeepSeek's August 2026 repricing that moved the floor up, the scarcity premium on new silicon, the compliance premium that deletes competitors from the buyer's menu, and the ranking of switching costs that provider roadmaps climb.</description>
+      <itunes:duration>0:27:43</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep08_podcast_price_26613594.mp3" length="26613594" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-infra_ep08_podcast_price_26613594.mp3:26613594</guid>
+      <pubDate>Mon, 31 Aug 2026 18:29:07 -0000</pubDate>
+    </item>
+    <item>
       <title>AI Infrastructure 7: What a GPU-Hour Really Costs</title>
       <description>An eight-GPU H200 server costs about two hundred eighty thousand dollars at volume. This episode builds its hourly cost line by line — depreciation, electricity, facilities, financing, and the utilization divisor — and lands two providers at a dollar forty and three dollars forty-five per hour on identical chips. It covers the 2026 rate squeeze that ran the famous price decay backwards, the depreciation bet, NVIDIA's take-or-pay backstops, and a five-hundred-million-dollar GPU cloud plan scored line by line.</description>
       <itunes:duration>0:27:24</itunes:duration>
