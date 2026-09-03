@@ -17,78 +17,6 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_drafts.png"/>
     <item>
-      <title>AI Infrastructure 9: The Value Chain — Where the Money Pools</title>
-      <description>NVIDIA books eighty-nine billion dollars of data-center revenue in a quarter at roughly seventy-five percent gross margin, while its largest customers sign hundred-billion-dollar offtakes and custom-silicon programs to exit that market. This episode walks all seven links of the AI value chain as real businesses with real margins, explains the single mechanism that decides who keeps any efficiency gain, and states the two-condition bet the entire buildout rests on. The series finale.</description>
-      <itunes:duration>0:28:17</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep09_podcast_value_chain_27167390.mp3" length="27167390" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-infra_ep09_podcast_value_chain_27167390.mp3:27167390</guid>
-      <pubDate>Mon, 31 Aug 2026 18:33:28 -0000</pubDate>
-    </item>
-    <item>
-      <title>AI Infrastructure 8: Token Prices and Who Keeps the Efficiency Gains</title>
-      <description>One H200 at three dollars an hour produces tokens at five dollars per million for an enterprise self-hoster, forty-three cents for a mid-size provider, and thirty-three cents for a top-tier one — same hardware, same free software. This episode covers what sets prices in AI infrastructure and who keeps the gains when serving gets cheaper: the open-source stack that sets the price floor, DeepSeek's August 2026 repricing that moved the floor up, the scarcity premium on new silicon, the compliance premium that deletes competitors from the buyer's menu, and the ranking of switching costs that provider roadmaps climb.</description>
-      <itunes:duration>0:27:43</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep08_podcast_price_26613594.mp3" length="26613594" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-infra_ep08_podcast_price_26613594.mp3:26613594</guid>
-      <pubDate>Mon, 31 Aug 2026 18:29:07 -0000</pubDate>
-    </item>
-    <item>
-      <title>AI Infrastructure 7: What a GPU-Hour Really Costs</title>
-      <description>An eight-GPU H200 server costs about two hundred eighty thousand dollars at volume. This episode builds its hourly cost line by line — depreciation, electricity, facilities, financing, and the utilization divisor — and lands two providers at a dollar forty and three dollars forty-five per hour on identical chips. It covers the 2026 rate squeeze that ran the famous price decay backwards, the depreciation bet, NVIDIA's take-or-pay backstops, and a five-hundred-million-dollar GPU cloud plan scored line by line.</description>
-      <itunes:duration>0:27:24</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep07_podcast_gpu_hour_26313499.mp3" length="26313499" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-infra_ep07_podcast_gpu_hour_26313499.mp3:26313499</guid>
-      <pubDate>Mon, 31 Aug 2026 18:24:54 -0000</pubDate>
-    </item>
-    <item>
-      <title>AI Infrastructure 6: The Six Ways Compute Is Sold</title>
-      <description>The same GPU is for sale six ways at once: by the server-month, the GPU-hour, the GPU-hour plus a fee, the GPU-second, the replica, and the million tokens. This episode walks the six products and what each one actually transfers, the contract menu on top of them — on-demand, reserved at thirty to sixty percent off, spot at fifty to eighty — and the checklist for reading any provider's page. It closes with three worked purchases: a three-engineer startup, a regulated European enterprise, and a mid-size lab planning reinforcement learning.</description>
-      <itunes:duration>0:27:14</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep06_podcast_products_26150077.mp3" length="26150077" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-infra_ep06_podcast_products_26150077.mp3:26150077</guid>
-      <pubDate>Mon, 31 Aug 2026 18:20:44 -0000</pubDate>
-    </item>
-    <item>
-      <title>AI Infrastructure 5: Clusters — Splitting Models, Networks, and Surviving Failure</title>
-      <description>Meta's published Llama 3 run logged 419 unexpected interruptions in 54 days on 16,384 H100 GPUs, one every three hours, and finished anyway. This episode covers the training loop and its sixteen-bytes-per-parameter memory bill, the four ways a model is split across GPUs, RDMA networking, checkpoint engineering, stragglers, and silent data corruption. Two providers with identical hardware routinely deliver 30 to 50 percent different price-performance; operations are the moat.</description>
-      <itunes:duration>0:28:43</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep05_podcast_clusters_27576154.mp3" length="27576154" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-infra_ep05_podcast_clusters_27576154.mp3:27576154</guid>
-      <pubDate>Mon, 31 Aug 2026 18:16:35 -0000</pubDate>
-    </item>
-    <item>
-      <title>AI Infrastructure 4: The Serving Stack — How Tokens Got a Hundred Times Cheaper</title>
-      <description>A seventy-two-billion-parameter model on two rented H200s makes tokens at about thirty-seven dollars per million. The same model on the same hardware, quantized, batched, paged, and cached, makes them for about twenty-five cents. This episode walks the cost down mechanism by mechanism: FP8 and four-bit quantization, batching and its three ceilings, continuous batching and PagedAttention, prefix caching, speculative decoding, and the disaggregated fleet behind DeepSeek's peak and off-peak rate card.</description>
-      <itunes:duration>0:29:05</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep04_podcast_serving_27935598.mp3" length="27935598" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-infra_ep04_podcast_serving_27935598.mp3:27935598</guid>
-      <pubDate>Mon, 31 Aug 2026 18:12:12 -0000</pubDate>
-    </item>
-    <item>
-      <title>AI Infrastructure 3: GPUs, HBM, and NVLink</title>
-      <description>A flagship GPU's memory is built as towers of dies stacked up to twelve high on the processor's own package, made by only three companies and plausibly accounting for a third or more of the chip's build cost. This episode walks the memory tiers from fifty megabytes of on-chip SRAM to the rack-scale NVLink domain, decodes NVIDIA's product line from the A100 to Rubin by what each generation actually changed, and covers the AMD, Groq, Cerebras, and custom-silicon bets, out to the gigawatt sites that power all of it. It closes on a worked example of why counting FLOPS picks the wrong machine.</description>
-      <itunes:duration>0:28:38</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep03_podcast_hardware_27490472.mp3" length="27490472" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-infra_ep03_podcast_hardware_27490472.mp3:27490472</guid>
-      <pubDate>Mon, 31 Aug 2026 18:07:47 -0000</pubDate>
-    </item>
-    <item>
-      <title>AI Infrastructure 2: Prefill, Decode, and Why Memory Bandwidth Sets the Speed</title>
-      <description>A GPU generating text for one user performs about two percent of its rated arithmetic, because every parameter must stream from memory for every token. This episode separates inference into its two opposite phases — parallel, compute-bound prefill and sequential, memory-bound decode — and derives generation speed from one division: bandwidth over bytes per token. It covers why quantization is a speed technology, why the H200 outsells the H100 for inference on identical compute, training's sixteen-bytes-per-parameter memory bill, LoRA, and the coding-agent workload profile.</description>
-      <itunes:duration>0:28:23</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep02_podcast_computation_27261012.mp3" length="27261012" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-infra_ep02_podcast_computation_27261012.mp3:27261012</guid>
-      <pubDate>Mon, 31 Aug 2026 18:03:28 -0000</pubDate>
-    </item>
-    <item>
-      <title>AI Infrastructure 1: What a Frontier Model Physically Is</title>
-      <description>A trillion-parameter model is about one terabyte of numbers in a downloadable file. This episode reads that file: parameters and the formats they are stored in, tokens as the unit of work, attention and the KV cache priced in gigabytes per user, Mixture of Experts, and the lifecycle from pre-training through licenses. It closes by reading Moonshot AI's Kimi K2 model card end to end.</description>
-      <itunes:duration>0:28:24</itunes:duration>
-      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep01_podcast_artifact_27277313.mp3" length="27277313" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-infra_ep01_podcast_artifact_27277313.mp3:27277313</guid>
-      <pubDate>Mon, 31 Aug 2026 17:59:12 -0000</pubDate>
-    </item>
-    <item>
       <title>AI Compute 12: The Build-Out Is a Bet on Reinforcement Learning</title>
       <description>The AI build-out, hundreds of billions of dollars of chips, buildings, and power, rests on demand continuing to grow, and most of that demand is the frontier labs consuming their own compute to train the next model. Whether they keep doing it depends on one measurable thing: how much capability another dollar of reinforcement-learning compute still buys. This episode makes the case that this single quantity, not chips or power or networking, decides whether the build-out is sound infrastructure or stranded assets, using the ScaleRL results, Epoch's compute figures, the CoreWeave and Oracle financings, and what would prove the argument wrong. The finale of the AI-compute series.</description>
       <itunes:episode>12</itunes:episode>
@@ -96,6 +24,15 @@
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep12_podcast_thesis_10760820.mp3" length="10760820" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-compute-clouds_ep12_podcast_thesis_10760820.mp3:10760820</guid>
       <pubDate>Sun, 14 Jun 2026 17:49:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>AI Infrastructure 9: The Value Chain — Where the Money Pools</title>
+      <description>NVIDIA books eighty-nine billion dollars of data-center revenue in a quarter at roughly seventy-five percent gross margin, while its largest customers sign hundred-billion-dollar offtakes and custom-silicon programs to exit that market. This episode walks all seven links of the AI value chain as real businesses with real margins, explains the single mechanism that decides who keeps any efficiency gain, and states the two-condition bet the entire buildout rests on. The series finale.</description>
+      <itunes:episode>9</itunes:episode>
+      <itunes:duration>0:28:17</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep09_podcast_value_chain_27167390.mp3" length="27167390" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-infra_ep09_podcast_value_chain_27167390.mp3:27167390</guid>
+      <pubDate>Mon, 31 Aug 2026 18:33:28 -0000</pubDate>
     </item>
     <item>
       <title>AI Compute 8: How a Frontier Model Is Trained</title>
@@ -107,6 +44,15 @@
       <pubDate>Sun, 14 Jun 2026 18:38:24 -0000</pubDate>
     </item>
     <item>
+      <title>AI Infrastructure 8: Token Prices and Who Keeps the Efficiency Gains</title>
+      <description>One H200 at three dollars an hour produces tokens at five dollars per million for an enterprise self-hoster, forty-three cents for a mid-size provider, and thirty-three cents for a top-tier one — same hardware, same free software. This episode covers what sets prices in AI infrastructure and who keeps the gains when serving gets cheaper: the open-source stack that sets the price floor, DeepSeek's August 2026 repricing that moved the floor up, the scarcity premium on new silicon, the compliance premium that deletes competitors from the buyer's menu, and the ranking of switching costs that provider roadmaps climb.</description>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>0:27:43</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep08_podcast_price_26613594.mp3" length="26613594" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-infra_ep08_podcast_price_26613594.mp3:26613594</guid>
+      <pubDate>Mon, 31 Aug 2026 18:29:07 -0000</pubDate>
+    </item>
+    <item>
       <title>Co-Packaged Optics 2: Light Reaches the Chip on Two Clocks, Not One</title>
       <description>On March 12, 2026, AMD, Broadcom, NVIDIA, Meta, Microsoft and OpenAI signed one specification for optical interconnect soldered permanently inside AI machines. The same spring, NVIDIA shipped a five-meter machine held together by copper and light at once. This episode argues that demand and qualification, not energy, set the dates for light's move inward, and names the one number at GTC in March 2027 that tests the claim.</description>
       <itunes:episode>7</itunes:episode>
@@ -114,6 +60,15 @@
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/co-packaged-optics_06_podcast_thesis_21534136.mp3" length="21534136" type="audio/mpeg"/>
       <guid isPermaLink="false">co-packaged-optics_06_podcast_thesis_21534136.mp3:21534136</guid>
       <pubDate>Fri, 12 Jun 2026 22:24:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>AI Infrastructure 7: What a GPU-Hour Really Costs</title>
+      <description>An eight-GPU H200 server costs about two hundred eighty thousand dollars at volume. This episode builds its hourly cost line by line — depreciation, electricity, facilities, financing, and the utilization divisor — and lands two providers at a dollar forty and three dollars forty-five per hour on identical chips. It covers the 2026 rate squeeze that ran the famous price decay backwards, the depreciation bet, NVIDIA's take-or-pay backstops, and a five-hundred-million-dollar GPU cloud plan scored line by line.</description>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>0:27:24</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep07_podcast_gpu_hour_26313499.mp3" length="26313499" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-infra_ep07_podcast_gpu_hour_26313499.mp3:26313499</guid>
+      <pubDate>Mon, 31 Aug 2026 18:24:54 -0000</pubDate>
     </item>
     <item>
       <title>AI Compute 6: Power Delivery and Cooling Inside the Data Center</title>
@@ -125,6 +80,15 @@
       <pubDate>Sun, 14 Jun 2026 18:37:11 -0000</pubDate>
     </item>
     <item>
+      <title>AI Infrastructure 6: The Six Ways Compute Is Sold</title>
+      <description>The same GPU is for sale six ways at once: by the server-month, the GPU-hour, the GPU-hour plus a fee, the GPU-second, the replica, and the million tokens. This episode walks the six products and what each one actually transfers, the contract menu on top of them — on-demand, reserved at thirty to sixty percent off, spot at fifty to eighty — and the checklist for reading any provider's page. It closes with three worked purchases: a three-engineer startup, a regulated European enterprise, and a mid-size lab planning reinforcement learning.</description>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>0:27:14</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep06_podcast_products_26150077.mp3" length="26150077" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-infra_ep06_podcast_products_26150077.mp3:26150077</guid>
+      <pubDate>Mon, 31 Aug 2026 18:20:44 -0000</pubDate>
+    </item>
+    <item>
       <title>AI Compute 5: How Tens of Thousands of Chips Become One Computer</title>
       <description>A frontier model is too large for one GPU, so it is split across tens of thousands of them that must exchange results at every step, and the speed of that exchange, not the speed of the chips, now sets the performance. This episode explains the two networks that do it: NVLink inside NVIDIA's 72-GPU rack, and InfiniBand or Ethernet between racks. It covers the copper reach limit that forces co-packaged optics in 2028, the optical-transceiver supply chain and its laser bottleneck, why one slow link stalls a 100,000-GPU training run, and why only about 40% of a cluster's compute reaches the model.</description>
       <itunes:episode>5</itunes:episode>
@@ -132,6 +96,15 @@
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-clouds_ep05_podcast_cluster_12032252.mp3" length="12032252" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-compute-clouds_ep05_podcast_cluster_12032252.mp3:12032252</guid>
       <pubDate>Sun, 14 Jun 2026 17:47:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>AI Infrastructure 5: Clusters — Splitting Models, Networks, and Surviving Failure</title>
+      <description>Meta's published Llama 3 run logged 419 unexpected interruptions in 54 days on 16,384 H100 GPUs, one every three hours, and finished anyway. This episode covers the training loop and its sixteen-bytes-per-parameter memory bill, the four ways a model is split across GPUs, RDMA networking, checkpoint engineering, stragglers, and silent data corruption. Two providers with identical hardware routinely deliver 30 to 50 percent different price-performance; operations are the moat.</description>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>0:28:43</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep05_podcast_clusters_27576154.mp3" length="27576154" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-infra_ep05_podcast_clusters_27576154.mp3:27576154</guid>
+      <pubDate>Mon, 31 Aug 2026 18:16:35 -0000</pubDate>
     </item>
     <item>
       <title>AI Compute Thesis (superseded): Why AI Automates Some Jobs and Not Others</title>
@@ -143,6 +116,15 @@
       <pubDate>Thu, 11 Jun 2026 22:50:58 -0000</pubDate>
     </item>
     <item>
+      <title>AI Infrastructure 4: The Serving Stack — How Tokens Got a Hundred Times Cheaper</title>
+      <description>A seventy-two-billion-parameter model on two rented H200s makes tokens at about thirty-seven dollars per million. The same model on the same hardware, quantized, batched, paged, and cached, makes them for about twenty-five cents. This episode walks the cost down mechanism by mechanism: FP8 and four-bit quantization, batching and its three ceilings, continuous batching and PagedAttention, prefix caching, speculative decoding, and the disaggregated fleet behind DeepSeek's peak and off-peak rate card.</description>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>0:29:05</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep04_podcast_serving_27935598.mp3" length="27935598" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-infra_ep04_podcast_serving_27935598.mp3:27935598</guid>
+      <pubDate>Mon, 31 Aug 2026 18:12:12 -0000</pubDate>
+    </item>
+    <item>
       <title>Verda Internal Investment Thesis: What the Series B Deck Changes</title>
       <description>An internal, committed view of whether Verda, a Helsinki GPU cloud, can become a $10 billion company, updated against the company's own June 2026 Series B materials. An earlier version, built on roughly fifty expert-call transcripts, concluded Verda was the right shape in the wrong position: disciplined and cheap on power, but outside the chain that pulls a neocloud to scale. The company's fundraise materials claim the opposite on nearly every point: launch-partner allocation on NVIDIA's next platform, an anchor-grade foundation-lab contract, utilization and net retention well above break-even, a real power pipeline, and AI-native growth customers. This episode works through what the deck answers, what it leaves to verify, and the central thing it changes: Verda is now choosing the leveraged, asset-backed scaling path it was previously praised for avoiding. It lands on the handful of questions that decide whether the claims hold and whether a roughly seventeen-billion-euro capital plan is financeable before the depreciation and custom-silicon cycle turns. Internal investment view; company-stated figures are unaudited.</description>
       <itunes:episode>4</itunes:episode>
@@ -150,6 +132,15 @@
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_21_thesis_pod_14449310.mp3" length="14449310" type="audio/mpeg"/>
       <guid isPermaLink="false">verda_21_thesis_pod_14449310.mp3:14449310</guid>
       <pubDate>Wed, 17 Jun 2026 10:28:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>AI Infrastructure 3: GPUs, HBM, and NVLink</title>
+      <description>A flagship GPU's memory is built as towers of dies stacked up to twelve high on the processor's own package, made by only three companies and plausibly accounting for a third or more of the chip's build cost. This episode walks the memory tiers from fifty megabytes of on-chip SRAM to the rack-scale NVLink domain, decodes NVIDIA's product line from the A100 to Rubin by what each generation actually changed, and covers the AMD, Groq, Cerebras, and custom-silicon bets, out to the gigawatt sites that power all of it. It closes on a worked example of why counting FLOPS picks the wrong machine.</description>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>0:28:38</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep03_podcast_hardware_27490472.mp3" length="27490472" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-infra_ep03_podcast_hardware_27490472.mp3:27490472</guid>
+      <pubDate>Mon, 31 Aug 2026 18:07:47 -0000</pubDate>
     </item>
     <item>
       <title>Co-Packaged Optics 1: Why AI Computers Switch from Copper to Light (register pass)</title>
@@ -186,6 +177,15 @@
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/verda_13_race_pod_18478854.mp3" length="18478854" type="audio/mpeg"/>
       <guid isPermaLink="false">verda_13_race_pod_18478854.mp3:18478854</guid>
       <pubDate>Wed, 17 Jun 2026 22:55:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>AI Infrastructure 2: Prefill, Decode, and Why Memory Bandwidth Sets the Speed</title>
+      <description>A GPU generating text for one user performs about two percent of its rated arithmetic, because every parameter must stream from memory for every token. This episode separates inference into its two opposite phases — parallel, compute-bound prefill and sequential, memory-bound decode — and derives generation speed from one division: bandwidth over bytes per token. It covers why quantization is a speed technology, why the H200 outsells the H100 for inference on identical compute, training's sixteen-bytes-per-parameter memory bill, LoRA, and the coding-agent workload profile.</description>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>0:28:23</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep02_podcast_computation_27261012.mp3" length="27261012" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-infra_ep02_podcast_computation_27261012.mp3:27261012</guid>
+      <pubDate>Mon, 31 Aug 2026 18:03:28 -0000</pubDate>
     </item>
     <item>
       <title>Sensofusion 2: Anyone Can Spot a Drone. Few Can Stop One.</title>
@@ -240,6 +240,24 @@
       <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-compute-demand_ep01_podcast_bet_8756287.mp3" length="8756287" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-compute-demand_ep01_podcast_bet_8756287.mp3:8756287</guid>
       <pubDate>Sun, 28 Jun 2026 21:50:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>AI Infrastructure 1: What a Frontier Model Physically Is</title>
+      <description>A trillion-parameter model is about one terabyte of numbers in a downloadable file. This episode reads that file: parameters and the formats they are stored in, tokens as the unit of work, attention and the KV cache priced in gigabytes per user, Mixture of Experts, and the lifecycle from pre-training through licenses. It closes by reading Moonshot AI's Kimi K2 model card end to end.</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:28:24</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/ai-infra_ep01_podcast_artifact_27277313.mp3" length="27277313" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-infra_ep01_podcast_artifact_27277313.mp3:27277313</guid>
+      <pubDate>Mon, 31 Aug 2026 17:59:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Sensofusion Field Guide 1/8 — What a Flying Drone Reveals Over the Air</title>
+      <description>For years every DJI drone broadcast its own GPS position, its serial number, and its pilot's coordinates in an unencrypted packet every 640 milliseconds — and reading that packet is the only technique in drone defense that ends in an arrest. This episode follows the decoded packet, field by field, as published by Ruhr University Bochum, then points the same kind of receiver at the Ukrainian front line, where control links have scattered to 400–1,020 MHz and 2.1–2.3 GHz and video has moved up to 6–7.2 GHz, past the top of most detectors' listening window. It ends on one summer's two records: 700-plus drones seized from their operators at the World Cup, zero radio-based attributions in Europe's airspace incursions.</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:29:13</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/sensofusion_21_ep01_over_the_air_pod_28051373.mp3" length="28051373" type="audio/mpeg"/>
+      <guid isPermaLink="false">sensofusion_21_ep01_over_the_air_pod_28051373.mp3:28051373</guid>
+      <pubDate>Wed, 02 Sep 2026 22:24:12 -0000</pubDate>
     </item>
   </channel>
 </rss>
