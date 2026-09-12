@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>for Vero ✨</title>
+    <link>https://teemu-mattila.github.io/frontier-pods</link>
+    <description>Episodes made for Vero.</description>
+    <itunes:subtitle>Episodes made for Vero.</itunes:subtitle>
+    <itunes:summary>Episodes made for Vero.</itunes:summary>
+    <language>en</language>
+    <itunes:author>The Modal Future</itunes:author>
+    <itunes:owner>
+      <itunes:name>Teemu Mattila</itunes:name>
+      <itunes:email>teemu.e.mattila@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_vero.jpg"/>
+    <item>
+      <title>Plant Medicine Money 1: Psychedelic Philanthropy, Reciprocity, and the Work of Jeff Leifer</title>
+      <description>Psychedelic medicine is close to federal approval in the United States, and the plants it is made from are under pressure in Texas, Gabon and the Brazilian Amazon. Jeff Leifer spent a decade reforming municipal bond disclosure before he spent the next one building the funding architecture of the plant medicine field: the Psychedelic Listening Project, Kindred Trust, the Threshold Foundation grants program, the Indigenous Medicine Conservation Fund. How that money is actually structured, what reciprocity looks like when it is written into ownership rather than promised, and why integration is the part of care a market cuts first.</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:32:22</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/jeff-leifer_05_podcast_31079487.mp3" length="31079487" type="audio/mpeg"/>
+      <guid isPermaLink="false">jeff-leifer_05_podcast_31079487.mp3:31079487</guid>
+      <pubDate>Sat, 12 Sep 2026 19:14:54 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
