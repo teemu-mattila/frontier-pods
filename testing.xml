@@ -17,6 +17,15 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://teemu-mattila.github.io/frontier-pods/cover_drafts.png"/>
     <item>
+      <title>Plant Medicine Money 1: Psychedelic Philanthropy, Reciprocity, and the Work of Jeff Leifer</title>
+      <description>Psychedelic medicine is close to federal approval in the United States, and the plants it is made from are under pressure in Texas, Gabon and the Brazilian Amazon. Jeff Leifer spent a decade reforming municipal bond disclosure before he spent the next one building the funding architecture of the plant medicine field: the Psychedelic Listening Project, Kindred Trust, the Threshold Foundation grants program, the Indigenous Medicine Conservation Fund. How that money is actually structured, what reciprocity looks like when it is written into ownership rather than promised, and why integration is the part of care a market cuts first.</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:32:22</itunes:duration>
+      <enclosure url="https://teemu-mattila.github.io/frontier-pods/jeff-leifer_05_podcast_31079487.mp3" length="31079487" type="audio/mpeg"/>
+      <guid isPermaLink="false">jeff-leifer_05_podcast_31079487.mp3:31079487</guid>
+      <pubDate>Sat, 12 Sep 2026 19:14:54 -0000</pubDate>
+    </item>
+    <item>
       <title>AI Compute 12: The Build-Out Is a Bet on Reinforcement Learning</title>
       <description>The AI build-out, hundreds of billions of dollars of chips, buildings, and power, rests on demand continuing to grow, and most of that demand is the frontier labs consuming their own compute to train the next model. Whether they keep doing it depends on one measurable thing: how much capability another dollar of reinforcement-learning compute still buys. This episode makes the case that this single quantity, not chips or power or networking, decides whether the build-out is sound infrastructure or stranded assets, using the ScaleRL results, Epoch's compute figures, the CoreWeave and Oracle financings, and what would prove the argument wrong. The finale of the AI-compute series.</description>
       <itunes:episode>12</itunes:episode>
